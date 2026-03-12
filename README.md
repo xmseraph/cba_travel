@@ -2,6 +2,8 @@
 
 对中国男子篮球职业联赛（CBA）2025-26 赛季各球队旅行里程的分析，包括赛程优化以减少总旅行距离。
 
+👉 **在线体验：** [https://cbatravel.streamlit.app](https://cbatravel.streamlit.app)
+
 ## 项目概述
 
 本项目：
