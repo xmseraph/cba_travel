@@ -1,0 +1,421 @@
+Round,Home Team,Away Team
+1,Shandong Hi-Speed Kirin,Sichuan Blue Whales
+1,Beijing Ducks,Liaoning Flying Leopards
+1,Ningbo Rockets,Shenzhen Leopards
+1,Beijing Royal Fighters,Xinjiang Flying Tigers
+1,Fujian Sturgeons,Zhejiang Guangsha Lions
+1,Qingdao Eagles,Nanjing Monkey Kings
+1,Shanxi Loongs,Zhejiang Golden Bulls
+1,Guangdong Southern Tigers,Guangzhou Loong Lions
+1,Jiangsu Dragons,Shanghai Sharks
+1,Tianjin Pioneers,Jilin Northeast Tigers
+2,Guangzhou Loong Lions,Shenzhen Leopards
+2,Jiangsu Dragons,Liaoning Flying Leopards
+2,Qingdao Eagles,Xinjiang Flying Tigers
+2,Shandong Hi-Speed Kirin,Shanghai Sharks
+2,Shanxi Loongs,Nanjing Monkey Kings
+2,Beijing Ducks,Jilin Northeast Tigers
+2,Sichuan Blue Whales,Zhejiang Golden Bulls
+2,Guangdong Southern Tigers,Fujian Sturgeons
+2,Tianjin Pioneers,Zhejiang Guangsha Lions
+2,Ningbo Rockets,Beijing Royal Fighters
+3,Guangdong Southern Tigers,Shenzhen Leopards
+3,Qingdao Eagles,Shanghai Sharks
+3,Guangzhou Loong Lions,Zhejiang Golden Bulls
+3,Shanxi Loongs,Tianjin Pioneers
+3,Sichuan Blue Whales,Beijing Royal Fighters
+3,Ningbo Rockets,Nanjing Monkey Kings
+3,Jiangsu Dragons,Liaoning Flying Leopards
+3,Zhejiang Guangsha Lions,Xinjiang Flying Tigers
+3,Fujian Sturgeons,Jilin Northeast Tigers
+3,Shandong Hi-Speed Kirin,Beijing Ducks
+4,Guangzhou Loong Lions,Beijing Royal Fighters
+4,Zhejiang Guangsha Lions,Qingdao Eagles
+4,Fujian Sturgeons,Nanjing Monkey Kings
+4,Jiangsu Dragons,Xinjiang Flying Tigers
+4,Shanghai Sharks,Beijing Ducks
+4,Shanxi Loongs,Liaoning Flying Leopards
+4,Shenzhen Leopards,Zhejiang Golden Bulls
+4,Tianjin Pioneers,Ningbo Rockets
+4,Shandong Hi-Speed Kirin,Jilin Northeast Tigers
+4,Sichuan Blue Whales,Guangdong Southern Tigers
+5,Beijing Royal Fighters,Liaoning Flying Leopards
+5,Shanghai Sharks,Sichuan Blue Whales
+5,Zhejiang Guangsha Lions,Shenzhen Leopards
+5,Fujian Sturgeons,Beijing Ducks
+5,Guangzhou Loong Lions,Jilin Northeast Tigers
+5,Qingdao Eagles,Shandong Hi-Speed Kirin
+5,Zhejiang Golden Bulls,Xinjiang Flying Tigers
+5,Tianjin Pioneers,Ningbo Rockets
+5,Shanxi Loongs,Guangdong Southern Tigers
+5,Jiangsu Dragons,Nanjing Monkey Kings
+6,Guangdong Southern Tigers,Jilin Northeast Tigers
+6,Tianjin Pioneers,Beijing Ducks
+6,Ningbo Rockets,Liaoning Flying Leopards
+6,Jiangsu Dragons,Xinjiang Flying Tigers
+6,Zhejiang Golden Bulls,Shanxi Loongs
+6,Zhejiang Guangsha Lions,Shandong Hi-Speed Kirin
+6,Nanjing Monkey Kings,Sichuan Blue Whales
+6,Shanghai Sharks,Shenzhen Leopards
+6,Fujian Sturgeons,Guangzhou Loong Lions
+6,Qingdao Eagles,Beijing Royal Fighters
+7,Ningbo Rockets,Zhejiang Guangsha Lions
+7,Beijing Royal Fighters,Beijing Ducks
+7,Guangdong Southern Tigers,Jilin Northeast Tigers
+7,Qingdao Eagles,Liaoning Flying Leopards
+7,Nanjing Monkey Kings,Guangzhou Loong Lions
+7,Shanxi Loongs,Xinjiang Flying Tigers
+7,Shenzhen Leopards,Jiangsu Dragons
+7,Sichuan Blue Whales,Tianjin Pioneers
+7,Zhejiang Golden Bulls,Shandong Hi-Speed Kirin
+7,Shanghai Sharks,Fujian Sturgeons
+8,Liaoning Flying Leopards,Zhejiang Guangsha Lions
+8,Beijing Ducks,Xinjiang Flying Tigers
+8,Fujian Sturgeons,Jiangsu Dragons
+8,Beijing Royal Fighters,Tianjin Pioneers
+8,Shenzhen Leopards,Jilin Northeast Tigers
+8,Zhejiang Golden Bulls,Guangdong Southern Tigers
+8,Shandong Hi-Speed Kirin,Guangzhou Loong Lions
+8,Sichuan Blue Whales,Qingdao Eagles
+8,Ningbo Rockets,Shanxi Loongs
+8,Nanjing Monkey Kings,Shanghai Sharks
+9,Jiangsu Dragons,Guangdong Southern Tigers
+9,Shenzhen Leopards,Xinjiang Flying Tigers
+9,Ningbo Rockets,Guangzhou Loong Lions
+9,Fujian Sturgeons,Shanxi Loongs
+9,Liaoning Flying Leopards,Beijing Ducks
+9,Nanjing Monkey Kings,Qingdao Eagles
+9,Zhejiang Golden Bulls,Jilin Northeast Tigers
+9,Tianjin Pioneers,Shandong Hi-Speed Kirin
+9,Sichuan Blue Whales,Shanghai Sharks
+9,Beijing Royal Fighters,Zhejiang Guangsha Lions
+10,Liaoning Flying Leopards,Shanghai Sharks
+10,Shenzhen Leopards,Beijing Royal Fighters
+10,Beijing Ducks,Guangdong Southern Tigers
+10,Tianjin Pioneers,Zhejiang Guangsha Lions
+10,Zhejiang Golden Bulls,Qingdao Eagles
+10,Nanjing Monkey Kings,Jilin Northeast Tigers
+10,Shandong Hi-Speed Kirin,Xinjiang Flying Tigers
+10,Shanxi Loongs,Guangzhou Loong Lions
+10,Fujian Sturgeons,Sichuan Blue Whales
+10,Ningbo Rockets,Jiangsu Dragons
+11,Shanghai Sharks,Ningbo Rockets
+11,Zhejiang Guangsha Lions,Beijing Ducks
+11,Fujian Sturgeons,Xinjiang Flying Tigers
+11,Liaoning Flying Leopards,Jilin Northeast Tigers
+11,Shanxi Loongs,Jiangsu Dragons
+11,Tianjin Pioneers,Guangzhou Loong Lions
+11,Zhejiang Golden Bulls,Shenzhen Leopards
+11,Guangdong Southern Tigers,Beijing Royal Fighters
+11,Shandong Hi-Speed Kirin,Nanjing Monkey Kings
+11,Qingdao Eagles,Sichuan Blue Whales
+12,Guangdong Southern Tigers,Xinjiang Flying Tigers
+12,Shanxi Loongs,Beijing Royal Fighters
+12,Shanghai Sharks,Shandong Hi-Speed Kirin
+12,Nanjing Monkey Kings,Zhejiang Golden Bulls
+12,Tianjin Pioneers,Shenzhen Leopards
+12,Zhejiang Guangsha Lions,Jilin Northeast Tigers
+12,Liaoning Flying Leopards,Guangzhou Loong Lions
+12,Qingdao Eagles,Jiangsu Dragons
+12,Fujian Sturgeons,Beijing Ducks
+12,Ningbo Rockets,Sichuan Blue Whales
+13,Guangdong Southern Tigers,Zhejiang Golden Bulls
+13,Qingdao Eagles,Shenzhen Leopards
+13,Shanghai Sharks,Zhejiang Guangsha Lions
+13,Ningbo Rockets,Beijing Ducks
+13,Fujian Sturgeons,Shandong Hi-Speed Kirin
+13,Guangzhou Loong Lions,Xinjiang Flying Tigers
+13,Jilin Northeast Tigers,Jiangsu Dragons
+13,Nanjing Monkey Kings,Liaoning Flying Leopards
+13,Shanxi Loongs,Sichuan Blue Whales
+13,Beijing Royal Fighters,Tianjin Pioneers
+14,Zhejiang Guangsha Lions,Zhejiang Golden Bulls
+14,Ningbo Rockets,Guangdong Southern Tigers
+14,Jiangsu Dragons,Shenzhen Leopards
+14,Sichuan Blue Whales,Xinjiang Flying Tigers
+14,Guangzhou Loong Lions,Shandong Hi-Speed Kirin
+14,Shanxi Loongs,Jilin Northeast Tigers
+14,Qingdao Eagles,Beijing Ducks
+14,Beijing Royal Fighters,Fujian Sturgeons
+14,Tianjin Pioneers,Liaoning Flying Leopards
+14,Shanghai Sharks,Nanjing Monkey Kings
+15,Qingdao Eagles,Ningbo Rockets
+15,Beijing Ducks,Shanghai Sharks
+15,Zhejiang Guangsha Lions,Guangdong Southern Tigers
+15,Beijing Royal Fighters,Shanxi Loongs
+15,Guangzhou Loong Lions,Jiangsu Dragons
+15,Jilin Northeast Tigers,Nanjing Monkey Kings
+15,Shandong Hi-Speed Kirin,Liaoning Flying Leopards
+15,Sichuan Blue Whales,Shenzhen Leopards
+15,Tianjin Pioneers,Xinjiang Flying Tigers
+15,Fujian Sturgeons,Zhejiang Golden Bulls
+16,Jilin Northeast Tigers,Xinjiang Flying Tigers
+16,Liaoning Flying Leopards,Ningbo Rockets
+16,Shandong Hi-Speed Kirin,Beijing Royal Fighters
+16,Beijing Ducks,Shenzhen Leopards
+16,Sichuan Blue Whales,Nanjing Monkey Kings
+16,Zhejiang Golden Bulls,Fujian Sturgeons
+16,Guangdong Southern Tigers,Qingdao Eagles
+16,Jiangsu Dragons,Guangzhou Loong Lions
+16,Tianjin Pioneers,Shanxi Loongs
+16,Zhejiang Guangsha Lions,Shanghai Sharks
+17,Tianjin Pioneers,Fujian Sturgeons
+17,Zhejiang Golden Bulls,Guangzhou Loong Lions
+17,Beijing Royal Fighters,Jiangsu Dragons
+17,Guangdong Southern Tigers,Shanghai Sharks
+17,Qingdao Eagles,Jilin Northeast Tigers
+17,Liaoning Flying Leopards,Xinjiang Flying Tigers
+17,Nanjing Monkey Kings,Shenzhen Leopards
+17,Beijing Ducks,Shanxi Loongs
+17,Sichuan Blue Whales,Zhejiang Guangsha Lions
+17,Shandong Hi-Speed Kirin,Ningbo Rockets
+18,Jiangsu Dragons,Shandong Hi-Speed Kirin
+18,Sichuan Blue Whales,Jilin Northeast Tigers
+18,Zhejiang Guangsha Lions,Guangzhou Loong Lions
+18,Qingdao Eagles,Zhejiang Golden Bulls
+18,Liaoning Flying Leopards,Shenzhen Leopards
+18,Shanghai Sharks,Xinjiang Flying Tigers
+18,Shanxi Loongs,Fujian Sturgeons
+18,Beijing Ducks,Ningbo Rockets
+18,Beijing Royal Fighters,Guangdong Southern Tigers
+18,Nanjing Monkey Kings,Tianjin Pioneers
+19,Beijing Royal Fighters,Jilin Northeast Tigers
+19,Guangdong Southern Tigers,Tianjin Pioneers
+19,Shanxi Loongs,Beijing Ducks
+19,Nanjing Monkey Kings,Xinjiang Flying Tigers
+19,Qingdao Eagles,Zhejiang Guangsha Lions
+19,Shanghai Sharks,Guangzhou Loong Lions
+19,Sichuan Blue Whales,Liaoning Flying Leopards
+19,Fujian Sturgeons,Shenzhen Leopards
+19,Jiangsu Dragons,Zhejiang Golden Bulls
+19,Ningbo Rockets,Shandong Hi-Speed Kirin
+20,Beijing Ducks,Beijing Royal Fighters
+20,Qingdao Eagles,Guangzhou Loong Lions
+20,Shandong Hi-Speed Kirin,Zhejiang Guangsha Lions
+20,Shanxi Loongs,Guangdong Southern Tigers
+20,Sichuan Blue Whales,Fujian Sturgeons
+20,Shanghai Sharks,Zhejiang Golden Bulls
+20,Liaoning Flying Leopards,Xinjiang Flying Tigers
+20,Nanjing Monkey Kings,Shenzhen Leopards
+20,Jilin Northeast Tigers,Tianjin Pioneers
+20,Jiangsu Dragons,Ningbo Rockets
+21,Shenzhen Leopards,Liaoning Flying Leopards
+21,Beijing Royal Fighters,Shanghai Sharks
+21,Jiangsu Dragons,Qingdao Eagles
+21,Beijing Ducks,Zhejiang Guangsha Lions
+21,Tianjin Pioneers,Guangdong Southern Tigers
+21,Zhejiang Golden Bulls,Nanjing Monkey Kings
+21,Xinjiang Flying Tigers,Guangzhou Loong Lions
+21,Jilin Northeast Tigers,Fujian Sturgeons
+21,Sichuan Blue Whales,Ningbo Rockets
+21,Shanxi Loongs,Shandong Hi-Speed Kirin
+22,Shandong Hi-Speed Kirin,Jiangsu Dragons
+22,Shanghai Sharks,Beijing Royal Fighters
+22,Shenzhen Leopards,Liaoning Flying Leopards
+22,Beijing Ducks,Sichuan Blue Whales
+22,Tianjin Pioneers,Zhejiang Golden Bulls
+22,Zhejiang Guangsha Lions,Nanjing Monkey Kings
+22,Xinjiang Flying Tigers,Guangdong Southern Tigers
+22,Guangzhou Loong Lions,Ningbo Rockets
+22,Jilin Northeast Tigers,Shanxi Loongs
+22,Fujian Sturgeons,Qingdao Eagles
+23,Guangdong Southern Tigers,Liaoning Flying Leopards
+23,Jilin Northeast Tigers,Shanxi Loongs
+23,Xinjiang Flying Tigers,Beijing Royal Fighters
+23,Zhejiang Guangsha Lions,Ningbo Rockets
+23,Nanjing Monkey Kings,Fujian Sturgeons
+23,Shandong Hi-Speed Kirin,Zhejiang Golden Bulls
+23,Shanghai Sharks,Qingdao Eagles
+23,Shenzhen Leopards,Guangzhou Loong Lions
+23,Beijing Ducks,Tianjin Pioneers
+23,Sichuan Blue Whales,Jiangsu Dragons
+24,Jilin Northeast Tigers,Beijing Royal Fighters
+24,Shenzhen Leopards,Sichuan Blue Whales
+24,Shanghai Sharks,Jiangsu Dragons
+24,Zhejiang Guangsha Lions,Liaoning Flying Leopards
+24,Guangdong Southern Tigers,Shandong Hi-Speed Kirin
+24,Qingdao Eagles,Shanxi Loongs
+24,Xinjiang Flying Tigers,Beijing Ducks
+24,Guangzhou Loong Lions,Fujian Sturgeons
+24,Tianjin Pioneers,Nanjing Monkey Kings
+24,Zhejiang Golden Bulls,Ningbo Rockets
+25,Zhejiang Guangsha Lions,Beijing Royal Fighters
+25,Shenzhen Leopards,Shandong Hi-Speed Kirin
+25,Xinjiang Flying Tigers,Nanjing Monkey Kings
+25,Ningbo Rockets,Jilin Northeast Tigers
+25,Guangzhou Loong Lions,Fujian Sturgeons
+25,Jiangsu Dragons,Sichuan Blue Whales
+25,Shanghai Sharks,Liaoning Flying Leopards
+25,Zhejiang Golden Bulls,Tianjin Pioneers
+25,Guangdong Southern Tigers,Shanxi Loongs
+25,Beijing Ducks,Qingdao Eagles
+26,Guangdong Southern Tigers,Beijing Ducks
+26,Jiangsu Dragons,Jilin Northeast Tigers
+26,Guangzhou Loong Lions,Liaoning Flying Leopards
+26,Qingdao Eagles,Zhejiang Golden Bulls
+26,Xinjiang Flying Tigers,Nanjing Monkey Kings
+26,Ningbo Rockets,Beijing Royal Fighters
+26,Zhejiang Guangsha Lions,Sichuan Blue Whales
+26,Shenzhen Leopards,Fujian Sturgeons
+26,Shandong Hi-Speed Kirin,Shanxi Loongs
+26,Shanghai Sharks,Tianjin Pioneers
+27,Liaoning Flying Leopards,Shanxi Loongs
+27,Shenzhen Leopards,Guangdong Southern Tigers
+27,Xinjiang Flying Tigers,Jilin Northeast Tigers
+27,Fujian Sturgeons,Ningbo Rockets
+27,Guangzhou Loong Lions,Beijing Ducks
+27,Shandong Hi-Speed Kirin,Qingdao Eagles
+27,Zhejiang Golden Bulls,Zhejiang Guangsha Lions
+27,Nanjing Monkey Kings,Jiangsu Dragons
+27,Shanghai Sharks,Sichuan Blue Whales
+27,Tianjin Pioneers,Beijing Royal Fighters
+28,Beijing Royal Fighters,Sichuan Blue Whales
+28,Nanjing Monkey Kings,Zhejiang Guangsha Lions
+28,Shenzhen Leopards,Ningbo Rockets
+28,Tianjin Pioneers,Qingdao Eagles
+28,Xinjiang Flying Tigers,Shanghai Sharks
+28,Jiangsu Dragons,Shanxi Loongs
+28,Jilin Northeast Tigers,Guangzhou Loong Lions
+28,Liaoning Flying Leopards,Zhejiang Golden Bulls
+28,Fujian Sturgeons,Guangdong Southern Tigers
+28,Beijing Ducks,Shandong Hi-Speed Kirin
+29,Guangdong Southern Tigers,Ningbo Rockets
+29,Beijing Ducks,Qingdao Eagles
+29,Beijing Royal Fighters,Shandong Hi-Speed Kirin
+29,Guangzhou Loong Lions,Shanghai Sharks
+29,Liaoning Flying Leopards,Nanjing Monkey Kings
+29,Shanxi Loongs,Zhejiang Guangsha Lions
+29,Tianjin Pioneers,Sichuan Blue Whales
+29,Xinjiang Flying Tigers,Shenzhen Leopards
+29,Jiangsu Dragons,Fujian Sturgeons
+29,Jilin Northeast Tigers,Zhejiang Golden Bulls
+30,Zhejiang Golden Bulls,Fujian Sturgeons
+30,Liaoning Flying Leopards,Sichuan Blue Whales
+30,Shanghai Sharks,Jilin Northeast Tigers
+30,Guangzhou Loong Lions,Zhejiang Guangsha Lions
+30,Jiangsu Dragons,Beijing Royal Fighters
+30,Shanxi Loongs,Qingdao Eagles
+30,Shandong Hi-Speed Kirin,Guangdong Southern Tigers
+30,Beijing Ducks,Nanjing Monkey Kings
+30,Xinjiang Flying Tigers,Shenzhen Leopards
+30,Ningbo Rockets,Tianjin Pioneers
+31,Jilin Northeast Tigers,Sichuan Blue Whales
+31,Liaoning Flying Leopards,Fujian Sturgeons
+31,Ningbo Rockets,Shanghai Sharks
+31,Guangzhou Loong Lions,Beijing Ducks
+31,Nanjing Monkey Kings,Beijing Royal Fighters
+31,Qingdao Eagles,Guangdong Southern Tigers
+31,Zhejiang Guangsha Lions,Shandong Hi-Speed Kirin
+31,Xinjiang Flying Tigers,Tianjin Pioneers
+31,Shanxi Loongs,Shenzhen Leopards
+31,Zhejiang Golden Bulls,Jiangsu Dragons
+32,Fujian Sturgeons,Tianjin Pioneers
+32,Guangzhou Loong Lions,Sichuan Blue Whales
+32,Zhejiang Golden Bulls,Beijing Royal Fighters
+32,Jilin Northeast Tigers,Qingdao Eagles
+32,Liaoning Flying Leopards,Guangdong Southern Tigers
+32,Shenzhen Leopards,Beijing Ducks
+32,Ningbo Rockets,Zhejiang Guangsha Lions
+32,Xinjiang Flying Tigers,Jiangsu Dragons
+32,Nanjing Monkey Kings,Shandong Hi-Speed Kirin
+32,Shanxi Loongs,Shanghai Sharks
+33,Guangzhou Loong Lions,Tianjin Pioneers
+33,Zhejiang Golden Bulls,Sichuan Blue Whales
+33,Liaoning Flying Leopards,Qingdao Eagles
+33,Nanjing Monkey Kings,Guangdong Southern Tigers
+33,Shenzhen Leopards,Shanghai Sharks
+33,Xinjiang Flying Tigers,Zhejiang Guangsha Lions
+33,Jilin Northeast Tigers,Shandong Hi-Speed Kirin
+33,Fujian Sturgeons,Beijing Royal Fighters
+33,Jiangsu Dragons,Beijing Ducks
+33,Shanxi Loongs,Ningbo Rockets
+34,Jilin Northeast Tigers,Guangdong Southern Tigers
+34,Jiangsu Dragons,Tianjin Pioneers
+34,Shenzhen Leopards,Shanxi Loongs
+34,Xinjiang Flying Tigers,Sichuan Blue Whales
+34,Ningbo Rockets,Qingdao Eagles
+34,Guangzhou Loong Lions,Nanjing Monkey Kings
+34,Liaoning Flying Leopards,Shandong Hi-Speed Kirin
+34,Zhejiang Golden Bulls,Beijing Ducks
+34,Fujian Sturgeons,Shanghai Sharks
+34,Zhejiang Guangsha Lions,Beijing Royal Fighters
+35,Shenzhen Leopards,Tianjin Pioneers
+35,Ningbo Rockets,Xinjiang Flying Tigers
+35,Beijing Royal Fighters,Zhejiang Golden Bulls
+35,Fujian Sturgeons,Qingdao Eagles
+35,Guangzhou Loong Lions,Shanxi Loongs
+35,Jilin Northeast Tigers,Beijing Ducks
+35,Liaoning Flying Leopards,Nanjing Monkey Kings
+35,Shanghai Sharks,Guangdong Southern Tigers
+35,Sichuan Blue Whales,Shandong Hi-Speed Kirin
+35,Zhejiang Guangsha Lions,Jiangsu Dragons
+36,Shenzhen Leopards,Jiangsu Dragons
+36,Ningbo Rockets,Fujian Sturgeons
+36,Jilin Northeast Tigers,Liaoning Flying Leopards
+36,Beijing Ducks,Zhejiang Golden Bulls
+36,Xinjiang Flying Tigers,Shandong Hi-Speed Kirin
+36,Beijing Royal Fighters,Nanjing Monkey Kings
+36,Guangzhou Loong Lions,Qingdao Eagles
+36,Zhejiang Guangsha Lions,Tianjin Pioneers
+36,Sichuan Blue Whales,Guangdong Southern Tigers
+36,Shanghai Sharks,Shanxi Loongs
+37,Zhejiang Guangsha Lions,Shanxi Loongs
+37,Beijing Royal Fighters,Shandong Hi-Speed Kirin
+37,Shenzhen Leopards,Qingdao Eagles
+37,Sichuan Blue Whales,Guangzhou Loong Lions
+37,Xinjiang Flying Tigers,Fujian Sturgeons
+37,Guangdong Southern Tigers,Nanjing Monkey Kings
+37,Shanghai Sharks,Jilin Northeast Tigers
+37,Liaoning Flying Leopards,Tianjin Pioneers
+37,Ningbo Rockets,Zhejiang Golden Bulls
+37,Beijing Ducks,Jiangsu Dragons
+38,Jilin Northeast Tigers,Ningbo Rockets
+38,Liaoning Flying Leopards,Beijing Royal Fighters
+38,Shandong Hi-Speed Kirin,Shenzhen Leopards
+38,Sichuan Blue Whales,Beijing Ducks
+38,Guangzhou Loong Lions,Guangdong Southern Tigers
+38,Nanjing Monkey Kings,Shanxi Loongs
+38,Tianjin Pioneers,Jiangsu Dragons
+38,Zhejiang Guangsha Lions,Fujian Sturgeons
+38,Xinjiang Flying Tigers,Qingdao Eagles
+38,Zhejiang Golden Bulls,Shanghai Sharks
+39,Jilin Northeast Tigers,Shenzhen Leopards
+39,Shanxi Loongs,Shanghai Sharks
+39,Fujian Sturgeons,Liaoning Flying Leopards
+39,Nanjing Monkey Kings,Beijing Ducks
+39,Shandong Hi-Speed Kirin,Tianjin Pioneers
+39,Zhejiang Golden Bulls,Guangzhou Loong Lions
+39,Xinjiang Flying Tigers,Ningbo Rockets
+39,Guangdong Southern Tigers,Sichuan Blue Whales
+39,Beijing Royal Fighters,Qingdao Eagles
+39,Jiangsu Dragons,Zhejiang Guangsha Lions
+40,Jilin Northeast Tigers,Sichuan Blue Whales
+40,Beijing Ducks,Guangzhou Loong Lions
+40,Zhejiang Golden Bulls,Liaoning Flying Leopards
+40,Beijing Royal Fighters,Shenzhen Leopards
+40,Guangdong Southern Tigers,Zhejiang Guangsha Lions
+40,Nanjing Monkey Kings,Jiangsu Dragons
+40,Xinjiang Flying Tigers,Shanxi Loongs
+40,Shandong Hi-Speed Kirin,Ningbo Rockets
+40,Qingdao Eagles,Fujian Sturgeons
+40,Tianjin Pioneers,Shanghai Sharks
+41,Guangdong Southern Tigers,Jiangsu Dragons
+41,Jilin Northeast Tigers,Shanghai Sharks
+41,Beijing Royal Fighters,Guangzhou Loong Lions
+41,Qingdao Eagles,Tianjin Pioneers
+41,Shandong Hi-Speed Kirin,Fujian Sturgeons
+41,Sichuan Blue Whales,Shanxi Loongs
+41,Nanjing Monkey Kings,Ningbo Rockets
+41,Shenzhen Leopards,Zhejiang Guangsha Lions
+41,Xinjiang Flying Tigers,Liaoning Flying Leopards
+41,Beijing Ducks,Zhejiang Golden Bulls
+42,Jilin Northeast Tigers,Zhejiang Guangsha Lions
+42,Beijing Ducks,Fujian Sturgeons
+42,Liaoning Flying Leopards,Jiangsu Dragons
+42,Qingdao Eagles,Guangzhou Loong Lions
+42,Sichuan Blue Whales,Shanxi Loongs
+42,Guangdong Southern Tigers,Shanghai Sharks
+42,Xinjiang Flying Tigers,Zhejiang Golden Bulls
+42,Beijing Royal Fighters,Ningbo Rockets
+42,Shandong Hi-Speed Kirin,Tianjin Pioneers
+42,Shenzhen Leopards,Nanjing Monkey Kings

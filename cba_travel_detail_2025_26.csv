@@ -1,0 +1,841 @@
+Team,Round,Km,From,To
+Beijing Ducks,1,1028,Beijing,Suzhou
+Beijing Ducks,2,1028,Suzhou,Beijing
+Beijing Ducks,3,0,Beijing,Beijing
+Beijing Ducks,4,0,Beijing,Beijing
+Beijing Ducks,5,1525,Beijing,Chengdu
+Beijing Ducks,6,2065,Chengdu,Urumqi
+Beijing Ducks,7,3509,Urumqi,Jinjiang
+Beijing Ducks,8,1693,Jinjiang,Beijing
+Beijing Ducks,9,0,Beijing,Beijing
+Beijing Ducks,10,1123,Beijing,Hangzhou
+Beijing Ducks,11,141,Hangzhou,Ningbo
+Beijing Ducks,12,1210,Ningbo,Beijing
+Beijing Ducks,13,1943,Beijing,Shenzhen
+Beijing Ducks,14,1943,Shenzhen,Beijing
+Beijing Ducks,15,0,Beijing,Beijing
+Beijing Ducks,16,0,Beijing,Beijing
+Beijing Ducks,17,1067,Beijing,Shanghai
+Beijing Ducks,18,1067,Shanghai,Beijing
+Beijing Ducks,19,0,Beijing,Beijing
+Beijing Ducks,20,403,Beijing,Taiyuan
+Beijing Ducks,21,449,Taiyuan,Tianjin
+Beijing Ducks,22,103,Tianjin,Beijing
+Beijing Ducks,23,0,Beijing,Beijing
+Beijing Ducks,24,0,Beijing,Beijing
+Beijing Ducks,25,1889,Beijing,Guangzhou
+Beijing Ducks,26,1889,Guangzhou,Beijing
+Beijing Ducks,27,1693,Beijing,Jinjiang
+Beijing Ducks,28,1946,Jinjiang,Shenyang
+Beijing Ducks,29,272,Shenyang,Changchun
+Beijing Ducks,30,856,Changchun,Beijing
+Beijing Ducks,31,1894,Beijing,Dongguan
+Beijing Ducks,32,1121,Dongguan,Nanjing
+Beijing Ducks,33,237,Nanjing,Hangzhou
+Beijing Ducks,34,1123,Hangzhou,Beijing
+Beijing Ducks,35,0,Beijing,Beijing
+Beijing Ducks,36,1889,Beijing,Guangzhou
+Beijing Ducks,37,1889,Guangzhou,Beijing
+Beijing Ducks,38,0,Beijing,Beijing
+Beijing Ducks,39,0,Beijing,Beijing
+Beijing Ducks,40,365,Beijing,Jinan
+Beijing Ducks,41,310,Jinan,Qingdao
+Beijing Ducks,42,551,Qingdao,Beijing
+Beijing Royal Fighters,1,0,Beijing,Beijing
+Beijing Royal Fighters,2,0,Beijing,Beijing
+Beijing Royal Fighters,3,0,Beijing,Beijing
+Beijing Royal Fighters,4,365,Beijing,Jinan
+Beijing Royal Fighters,5,797,Jinan,Shenyang
+Beijing Royal Fighters,6,272,Shenyang,Changchun
+Beijing Royal Fighters,7,856,Changchun,Beijing
+Beijing Royal Fighters,8,0,Beijing,Beijing
+Beijing Royal Fighters,9,1943,Beijing,Shenzhen
+Beijing Royal Fighters,10,1943,Shenzhen,Beijing
+Beijing Royal Fighters,11,103,Beijing,Tianjin
+Beijing Royal Fighters,12,1552,Tianjin,Chengdu
+Beijing Royal Fighters,13,1542,Chengdu,Hangzhou
+Beijing Royal Fighters,14,1123,Hangzhou,Beijing
+Beijing Royal Fighters,15,0,Beijing,Beijing
+Beijing Royal Fighters,16,1894,Beijing,Dongguan
+Beijing Royal Fighters,17,51,Dongguan,Guangzhou
+Beijing Royal Fighters,18,1889,Guangzhou,Beijing
+Beijing Royal Fighters,19,0,Beijing,Beijing
+Beijing Royal Fighters,20,0,Beijing,Beijing
+Beijing Royal Fighters,21,0,Beijing,Beijing
+Beijing Royal Fighters,22,1693,Beijing,Jinjiang
+Beijing Royal Fighters,23,638,Jinjiang,Ningbo
+Beijing Royal Fighters,24,152,Ningbo,Shanghai
+Beijing Royal Fighters,25,1067,Shanghai,Beijing
+Beijing Royal Fighters,26,2411,Beijing,Urumqi
+Beijing Royal Fighters,27,2189,Urumqi,Taiyuan
+Beijing Royal Fighters,28,1097,Taiyuan,Hangzhou
+Beijing Royal Fighters,29,1123,Hangzhou,Beijing
+Beijing Royal Fighters,30,0,Beijing,Beijing
+Beijing Royal Fighters,31,0,Beijing,Beijing
+Beijing Royal Fighters,32,551,Beijing,Qingdao
+Beijing Royal Fighters,33,551,Qingdao,Beijing
+Beijing Royal Fighters,34,0,Beijing,Beijing
+Beijing Royal Fighters,35,1028,Beijing,Suzhou
+Beijing Royal Fighters,36,189,Suzhou,Nanjing
+Beijing Royal Fighters,37,898,Nanjing,Beijing
+Beijing Royal Fighters,38,0,Beijing,Beijing
+Beijing Royal Fighters,39,0,Beijing,Beijing
+Beijing Royal Fighters,40,0,Beijing,Beijing
+Beijing Royal Fighters,41,1123,Beijing,Hangzhou
+Beijing Royal Fighters,42,141,Hangzhou,Ningbo
+Fujian Sturgeons,1,3509,Jinjiang,Urumqi
+Fujian Sturgeons,2,3509,Urumqi,Jinjiang
+Fujian Sturgeons,3,0,Jinjiang,Jinjiang
+Fujian Sturgeons,4,631,Jinjiang,Hangzhou
+Fujian Sturgeons,5,0,Hangzhou,Hangzhou
+Fujian Sturgeons,6,631,Hangzhou,Jinjiang
+Fujian Sturgeons,7,0,Jinjiang,Jinjiang
+Fujian Sturgeons,8,0,Jinjiang,Jinjiang
+Fujian Sturgeons,9,1563,Jinjiang,Chengdu
+Fujian Sturgeons,10,1563,Chengdu,Jinjiang
+Fujian Sturgeons,11,0,Jinjiang,Jinjiang
+Fujian Sturgeons,12,2204,Jinjiang,Changchun
+Fujian Sturgeons,13,2204,Changchun,Jinjiang
+Fujian Sturgeons,14,1693,Jinjiang,Beijing
+Fujian Sturgeons,15,103,Beijing,Tianjin
+Fujian Sturgeons,16,449,Tianjin,Taiyuan
+Fujian Sturgeons,17,1562,Taiyuan,Jinjiang
+Fujian Sturgeons,18,0,Jinjiang,Jinjiang
+Fujian Sturgeons,19,0,Jinjiang,Jinjiang
+Fujian Sturgeons,20,521,Jinjiang,Shenzhen
+Fujian Sturgeons,21,104,Shenzhen,Guangzhou
+Fujian Sturgeons,22,568,Guangzhou,Jinjiang
+Fujian Sturgeons,23,1693,Jinjiang,Beijing
+Fujian Sturgeons,24,551,Beijing,Qingdao
+Fujian Sturgeons,25,1267,Qingdao,Jinjiang
+Fujian Sturgeons,26,810,Jinjiang,Nanjing
+Fujian Sturgeons,27,810,Nanjing,Jinjiang
+Fujian Sturgeons,28,0,Jinjiang,Jinjiang
+Fujian Sturgeons,29,0,Jinjiang,Jinjiang
+Fujian Sturgeons,30,638,Jinjiang,Ningbo
+Fujian Sturgeons,31,638,Ningbo,Jinjiang
+Fujian Sturgeons,32,0,Jinjiang,Jinjiang
+Fujian Sturgeons,33,1328,Jinjiang,Jinan
+Fujian Sturgeons,34,1328,Jinan,Jinjiang
+Fujian Sturgeons,35,631,Jinjiang,Hangzhou
+Fujian Sturgeons,36,1315,Hangzhou,Shenyang
+Fujian Sturgeons,37,1189,Shenyang,Shanghai
+Fujian Sturgeons,38,772,Shanghai,Jinjiang
+Fujian Sturgeons,39,752,Jinjiang,Suzhou
+Fujian Sturgeons,40,1141,Suzhou,Dongguan
+Fujian Sturgeons,41,51,Dongguan,Guangzhou
+Fujian Sturgeons,42,568,Guangzhou,Jinjiang
+Guangdong Southern Tigers,1,0,Dongguan,Dongguan
+Guangdong Southern Tigers,2,1027,Dongguan,Hangzhou
+Guangdong Southern Tigers,3,1027,Hangzhou,Dongguan
+Guangdong Southern Tigers,4,0,Dongguan,Dongguan
+Guangdong Southern Tigers,5,51,Dongguan,Guangzhou
+Guangdong Southern Tigers,6,51,Guangzhou,Dongguan
+Guangdong Southern Tigers,7,1655,Dongguan,Taiyuan
+Guangdong Southern Tigers,8,449,Taiyuan,Tianjin
+Guangdong Southern Tigers,9,103,Tianjin,Beijing
+Guangdong Southern Tigers,10,0,Beijing,Beijing
+Guangdong Southern Tigers,11,1894,Beijing,Dongguan
+Guangdong Southern Tigers,12,0,Dongguan,Dongguan
+Guangdong Southern Tigers,13,2274,Dongguan,Shenyang
+Guangdong Southern Tigers,14,1159,Shenyang,Nanjing
+Guangdong Southern Tigers,15,1121,Nanjing,Dongguan
+Guangdong Southern Tigers,16,0,Dongguan,Dongguan
+Guangdong Southern Tigers,17,1275,Dongguan,Chengdu
+Guangdong Southern Tigers,18,2378,Chengdu,Changchun
+Guangdong Southern Tigers,19,2544,Changchun,Dongguan
+Guangdong Southern Tigers,20,0,Dongguan,Dongguan
+Guangdong Southern Tigers,21,0,Dongguan,Dongguan
+Guangdong Southern Tigers,22,1086,Dongguan,Ningbo
+Guangdong Southern Tigers,23,1086,Ningbo,Dongguan
+Guangdong Southern Tigers,24,3325,Dongguan,Urumqi
+Guangdong Southern Tigers,25,3386,Urumqi,Shenzhen
+Guangdong Southern Tigers,26,62,Shenzhen,Dongguan
+Guangdong Southern Tigers,27,0,Dongguan,Dongguan
+Guangdong Southern Tigers,28,1141,Dongguan,Suzhou
+Guangdong Southern Tigers,29,85,Suzhou,Shanghai
+Guangdong Southern Tigers,30,1190,Shanghai,Dongguan
+Guangdong Southern Tigers,31,0,Dongguan,Dongguan
+Guangdong Southern Tigers,32,1275,Dongguan,Chengdu
+Guangdong Southern Tigers,33,1275,Chengdu,Dongguan
+Guangdong Southern Tigers,34,0,Dongguan,Dongguan
+Guangdong Southern Tigers,35,1547,Dongguan,Jinan
+Guangdong Southern Tigers,36,310,Jinan,Qingdao
+Guangdong Southern Tigers,37,1585,Qingdao,Dongguan
+Guangdong Southern Tigers,38,1027,Dongguan,Hangzhou
+Guangdong Southern Tigers,39,1027,Hangzhou,Dongguan
+Guangdong Southern Tigers,40,0,Dongguan,Dongguan
+Guangdong Southern Tigers,41,1655,Dongguan,Taiyuan
+Guangdong Southern Tigers,42,1562,Taiyuan,Jinjiang
+Guangzhou Loong Lions,1,1231,Guangzhou,Chengdu
+Guangzhou Loong Lions,3,1275,Chengdu,Dongguan
+Guangzhou Loong Lions,4,1141,Dongguan,Suzhou
+Guangzhou Loong Lions,5,1161,Suzhou,Guangzhou
+Guangzhou Loong Lions,6,568,Guangzhou,Jinjiang
+Guangzhou Loong Lions,7,568,Jinjiang,Guangzhou
+Guangzhou Loong Lions,8,3284,Guangzhou,Urumqi
+Guangzhou Loong Lions,9,2189,Urumqi,Taiyuan
+Guangzhou Loong Lions,10,449,Taiyuan,Tianjin
+Guangzhou Loong Lions,11,1844,Tianjin,Guangzhou
+Guangzhou Loong Lions,12,0,Guangzhou,Guangzhou
+Guangzhou Loong Lions,13,0,Guangzhou,Guangzhou
+Guangzhou Loong Lions,14,0,Guangzhou,Guangzhou
+Guangzhou Loong Lions,15,1048,Guangzhou,Hangzhou
+Guangzhou Loong Lions,16,0,Hangzhou,Hangzhou
+Guangzhou Loong Lions,17,1048,Hangzhou,Guangzhou
+Guangzhou Loong Lions,18,0,Guangzhou,Guangzhou
+Guangzhou Loong Lions,19,1593,Guangzhou,Qingdao
+Guangzhou Loong Lions,20,547,Qingdao,Shanghai
+Guangzhou Loong Lions,21,1212,Shanghai,Guangzhou
+Guangzhou Loong Lions,22,1546,Guangzhou,Jinan
+Guangzhou Loong Lions,23,310,Jinan,Qingdao
+Guangzhou Loong Lions,2,1593,Qingdao,Guangzhou
+Guangzhou Loong Lions,24,0,Guangzhou,Guangzhou
+Guangzhou Loong Lions,25,0,Guangzhou,Guangzhou
+Guangzhou Loong Lions,26,104,Guangzhou,Shenzhen
+Guangzhou Loong Lions,27,2313,Shenzhen,Shenyang
+Guangzhou Loong Lions,28,1338,Shenyang,Ningbo
+Guangzhou Loong Lions,29,1113,Ningbo,Guangzhou
+Guangzhou Loong Lions,30,0,Guangzhou,Guangzhou
+Guangzhou Loong Lions,31,0,Guangzhou,Guangzhou
+Guangzhou Loong Lions,32,1048,Guangzhou,Hangzhou
+Guangzhou Loong Lions,33,1123,Hangzhou,Beijing
+Guangzhou Loong Lions,34,0,Beijing,Beijing
+Guangzhou Loong Lions,35,1889,Beijing,Guangzhou
+Guangzhou Loong Lions,36,0,Guangzhou,Guangzhou
+Guangzhou Loong Lions,37,1132,Guangzhou,Nanjing
+Guangzhou Loong Lions,38,1132,Nanjing,Guangzhou
+Guangzhou Loong Lions,39,0,Guangzhou,Guangzhou
+Guangzhou Loong Lions,40,2551,Guangzhou,Changchun
+Guangzhou Loong Lions,41,2551,Changchun,Guangzhou
+Guangzhou Loong Lions,42,0,Guangzhou,Guangzhou
+Jiangsu Dragons,1,0,Suzhou,Suzhou
+Jiangsu Dragons,2,752,Suzhou,Jinjiang
+Jiangsu Dragons,3,752,Jinjiang,Suzhou
+Jiangsu Dragons,4,0,Suzhou,Suzhou
+Jiangsu Dragons,5,941,Suzhou,Tianjin
+Jiangsu Dragons,6,976,Tianjin,Shanghai
+Jiangsu Dragons,7,270,Shanghai,Nanjing
+Jiangsu Dragons,8,189,Nanjing,Suzhou
+Jiangsu Dragons,9,0,Suzhou,Suzhou
+Jiangsu Dragons,10,1036,Suzhou,Taiyuan
+Jiangsu Dragons,11,1260,Taiyuan,Changchun
+Jiangsu Dragons,12,1453,Changchun,Suzhou
+Jiangsu Dragons,13,3194,Suzhou,Urumqi
+Jiangsu Dragons,14,2411,Urumqi,Beijing
+Jiangsu Dragons,15,0,Beijing,Beijing
+Jiangsu Dragons,16,1028,Beijing,Suzhou
+Jiangsu Dragons,17,0,Suzhou,Suzhou
+Jiangsu Dragons,18,0,Suzhou,Suzhou
+Jiangsu Dragons,19,184,Suzhou,Ningbo
+Jiangsu Dragons,20,141,Ningbo,Hangzhou
+Jiangsu Dragons,21,121,Hangzhou,Suzhou
+Jiangsu Dragons,22,0,Suzhou,Suzhou
+Jiangsu Dragons,23,1195,Suzhou,Shenyang
+Jiangsu Dragons,24,797,Shenyang,Jinan
+Jiangsu Dragons,25,681,Jinan,Suzhou
+Jiangsu Dragons,26,1576,Suzhou,Chengdu
+Jiangsu Dragons,27,1632,Chengdu,Qingdao
+Jiangsu Dragons,28,531,Qingdao,Suzhou
+Jiangsu Dragons,29,0,Suzhou,Suzhou
+Jiangsu Dragons,30,1168,Suzhou,Shenzhen
+Jiangsu Dragons,31,1168,Shenzhen,Suzhou
+Jiangsu Dragons,32,121,Suzhou,Hangzhou
+Jiangsu Dragons,33,1027,Hangzhou,Dongguan
+Jiangsu Dragons,34,1121,Dongguan,Nanjing
+Jiangsu Dragons,35,189,Nanjing,Suzhou
+Jiangsu Dragons,36,0,Suzhou,Suzhou
+Jiangsu Dragons,37,1168,Suzhou,Shenzhen
+Jiangsu Dragons,38,104,Shenzhen,Guangzhou
+Jiangsu Dragons,39,1161,Guangzhou,Suzhou
+Jiangsu Dragons,40,0,Suzhou,Suzhou
+Jiangsu Dragons,41,0,Suzhou,Suzhou
+Jiangsu Dragons,42,0,Suzhou,Suzhou
+Jilin Northeast Tigers,1,1440,Changchun,Shanghai
+Jilin Northeast Tigers,2,1213,Shanghai,Shenzhen
+Jilin Northeast Tigers,3,2582,Shenzhen,Changchun
+Jilin Northeast Tigers,4,0,Changchun,Changchun
+Jilin Northeast Tigers,5,0,Changchun,Changchun
+Jilin Northeast Tigers,6,0,Changchun,Changchun
+Jilin Northeast Tigers,7,2551,Changchun,Guangzhou
+Jilin Northeast Tigers,8,568,Guangzhou,Jinjiang
+Jilin Northeast Tigers,9,810,Jinjiang,Nanjing
+Jilin Northeast Tigers,10,1159,Nanjing,Shenyang
+Jilin Northeast Tigers,11,272,Shenyang,Changchun
+Jilin Northeast Tigers,12,0,Changchun,Changchun
+Jilin Northeast Tigers,13,0,Changchun,Changchun
+Jilin Northeast Tigers,14,1064,Changchun,Jinan
+Jilin Northeast Tigers,15,310,Jinan,Qingdao
+Jilin Northeast Tigers,16,1632,Qingdao,Chengdu
+Jilin Northeast Tigers,17,2378,Chengdu,Changchun
+Jilin Northeast Tigers,18,0,Changchun,Changchun
+Jilin Northeast Tigers,19,828,Changchun,Tianjin
+Jilin Northeast Tigers,20,103,Tianjin,Beijing
+Jilin Northeast Tigers,21,1894,Beijing,Dongguan
+Jilin Northeast Tigers,22,2544,Dongguan,Changchun
+Jilin Northeast Tigers,23,0,Changchun,Changchun
+Jilin Northeast Tigers,24,1260,Changchun,Taiyuan
+Jilin Northeast Tigers,25,2189,Taiyuan,Urumqi
+Jilin Northeast Tigers,26,2998,Urumqi,Changchun
+Jilin Northeast Tigers,27,1573,Changchun,Hangzhou
+Jilin Northeast Tigers,28,0,Hangzhou,Hangzhou
+Jilin Northeast Tigers,29,1573,Hangzhou,Changchun
+Jilin Northeast Tigers,30,0,Changchun,Changchun
+Jilin Northeast Tigers,31,1453,Changchun,Suzhou
+Jilin Northeast Tigers,32,1453,Suzhou,Changchun
+Jilin Northeast Tigers,33,0,Changchun,Changchun
+Jilin Northeast Tigers,34,0,Changchun,Changchun
+Jilin Northeast Tigers,35,1440,Changchun,Shanghai
+Jilin Northeast Tigers,36,1440,Shanghai,Changchun
+Jilin Northeast Tigers,37,2544,Changchun,Dongguan
+Jilin Northeast Tigers,38,2544,Dongguan,Changchun
+Jilin Northeast Tigers,39,0,Changchun,Changchun
+Jilin Northeast Tigers,40,0,Changchun,Changchun
+Jilin Northeast Tigers,41,1587,Changchun,Ningbo
+Jilin Northeast Tigers,42,1210,Ningbo,Beijing
+Liaoning Flying Leopards,1,581,Shenyang,Tianjin
+Liaoning Flying Leopards,2,581,Tianjin,Shenyang
+Liaoning Flying Leopards,3,627,Shenyang,Beijing
+Liaoning Flying Leopards,4,627,Beijing,Shenyang
+Liaoning Flying Leopards,5,0,Shenyang,Shenyang
+Liaoning Flying Leopards,6,1315,Shenyang,Hangzhou
+Liaoning Flying Leopards,7,1123,Hangzhou,Beijing
+Liaoning Flying Leopards,8,1943,Beijing,Shenzhen
+Liaoning Flying Leopards,9,2313,Shenzhen,Shenyang
+Liaoning Flying Leopards,10,0,Shenyang,Shenyang
+Liaoning Flying Leopards,11,1159,Shenyang,Nanjing
+Liaoning Flying Leopards,12,189,Nanjing,Suzhou
+Liaoning Flying Leopards,13,1195,Suzhou,Shenyang
+Liaoning Flying Leopards,14,0,Shenyang,Shenyang
+Liaoning Flying Leopards,15,0,Shenyang,Shenyang
+Liaoning Flying Leopards,16,0,Shenyang,Shenyang
+Liaoning Flying Leopards,17,1026,Shenyang,Taiyuan
+Liaoning Flying Leopards,18,1026,Taiyuan,Shenyang
+Liaoning Flying Leopards,19,2907,Shenyang,Urumqi
+Liaoning Flying Leopards,20,2065,Urumqi,Chengdu
+Liaoning Flying Leopards,21,1679,Chengdu,Ningbo
+Liaoning Flying Leopards,22,1338,Ningbo,Shenyang
+Liaoning Flying Leopards,23,0,Shenyang,Shenyang
+Liaoning Flying Leopards,24,2313,Shenyang,Shenzhen
+Liaoning Flying Leopards,25,2313,Shenzhen,Shenyang
+Liaoning Flying Leopards,26,2274,Shenyang,Dongguan
+Liaoning Flying Leopards,27,2274,Dongguan,Shenyang
+Liaoning Flying Leopards,28,0,Shenyang,Shenyang
+Liaoning Flying Leopards,29,0,Shenyang,Shenyang
+Liaoning Flying Leopards,30,272,Shenyang,Changchun
+Liaoning Flying Leopards,31,2551,Changchun,Guangzhou
+Liaoning Flying Leopards,32,568,Guangzhou,Jinjiang
+Liaoning Flying Leopards,33,1946,Jinjiang,Shenyang
+Liaoning Flying Leopards,34,1315,Shenyang,Hangzhou
+Liaoning Flying Leopards,35,1315,Hangzhou,Shenyang
+Liaoning Flying Leopards,36,0,Shenyang,Shenyang
+Liaoning Flying Leopards,37,690,Shenyang,Qingdao
+Liaoning Flying Leopards,38,310,Qingdao,Jinan
+Liaoning Flying Leopards,39,797,Jinan,Shenyang
+Liaoning Flying Leopards,40,0,Shenyang,Shenyang
+Liaoning Flying Leopards,41,1189,Shenyang,Shanghai
+Liaoning Flying Leopards,42,85,Shanghai,Suzhou
+Nanjing Monkey Kings,1,1121,Nanjing,Dongguan
+Nanjing Monkey Kings,2,1121,Dongguan,Nanjing
+Nanjing Monkey Kings,3,469,Nanjing,Qingdao
+Nanjing Monkey Kings,4,1632,Qingdao,Chengdu
+Nanjing Monkey Kings,5,1408,Chengdu,Nanjing
+Nanjing Monkey Kings,6,0,Nanjing,Nanjing
+Nanjing Monkey Kings,7,0,Nanjing,Nanjing
+Nanjing Monkey Kings,8,237,Nanjing,Hangzhou
+Nanjing Monkey Kings,9,237,Hangzhou,Nanjing
+Nanjing Monkey Kings,10,0,Nanjing,Nanjing
+Nanjing Monkey Kings,11,0,Nanjing,Nanjing
+Nanjing Monkey Kings,12,358,Nanjing,Ningbo
+Nanjing Monkey Kings,13,864,Ningbo,Jinan
+Nanjing Monkey Kings,14,536,Jinan,Nanjing
+Nanjing Monkey Kings,15,0,Nanjing,Nanjing
+Nanjing Monkey Kings,16,820,Nanjing,Tianjin
+Nanjing Monkey Kings,17,1623,Tianjin,Jinjiang
+Nanjing Monkey Kings,18,568,Jinjiang,Guangzhou
+Nanjing Monkey Kings,19,104,Guangzhou,Shenzhen
+Nanjing Monkey Kings,20,1157,Shenzhen,Nanjing
+Nanjing Monkey Kings,21,0,Nanjing,Nanjing
+Nanjing Monkey Kings,22,270,Nanjing,Shanghai
+Nanjing Monkey Kings,23,270,Shanghai,Nanjing
+Nanjing Monkey Kings,24,237,Nanjing,Hangzhou
+Nanjing Monkey Kings,25,121,Hangzhou,Suzhou
+Nanjing Monkey Kings,26,189,Suzhou,Nanjing
+Nanjing Monkey Kings,27,0,Nanjing,Nanjing
+Nanjing Monkey Kings,28,0,Nanjing,Nanjing
+Nanjing Monkey Kings,29,1159,Nanjing,Shenyang
+Nanjing Monkey Kings,30,627,Shenyang,Beijing
+Nanjing Monkey Kings,31,2411,Beijing,Urumqi
+Nanjing Monkey Kings,32,3007,Urumqi,Nanjing
+Nanjing Monkey Kings,33,0,Nanjing,Nanjing
+Nanjing Monkey Kings,34,0,Nanjing,Nanjing
+Nanjing Monkey Kings,35,898,Nanjing,Beijing
+Nanjing Monkey Kings,36,898,Beijing,Nanjing
+Nanjing Monkey Kings,37,0,Nanjing,Nanjing
+Nanjing Monkey Kings,38,1426,Nanjing,Changchun
+Nanjing Monkey Kings,39,272,Changchun,Shenyang
+Nanjing Monkey Kings,40,1159,Shenyang,Nanjing
+Nanjing Monkey Kings,41,3007,Nanjing,Urumqi
+Nanjing Monkey Kings,42,2189,Urumqi,Taiyuan
+Ningbo Rockets,1,141,Ningbo,Hangzhou
+Ningbo Rockets,2,1097,Hangzhou,Taiyuan
+Ningbo Rockets,3,1216,Taiyuan,Ningbo
+Ningbo Rockets,4,1338,Ningbo,Shenyang
+Ningbo Rockets,5,272,Shenyang,Changchun
+Ningbo Rockets,6,1587,Changchun,Ningbo
+Ningbo Rockets,7,0,Ningbo,Ningbo
+Ningbo Rockets,8,0,Ningbo,Ningbo
+Ningbo Rockets,9,184,Ningbo,Suzhou
+Ningbo Rockets,10,85,Suzhou,Shanghai
+Ningbo Rockets,11,152,Shanghai,Ningbo
+Ningbo Rockets,12,0,Ningbo,Ningbo
+Ningbo Rockets,13,0,Ningbo,Ningbo
+Ningbo Rockets,14,0,Ningbo,Ningbo
+Ningbo Rockets,15,864,Ningbo,Jinan
+Ningbo Rockets,16,365,Jinan,Beijing
+Ningbo Rockets,17,103,Beijing,Tianjin
+Ningbo Rockets,18,1121,Tianjin,Ningbo
+Ningbo Rockets,19,0,Ningbo,Ningbo
+Ningbo Rockets,20,864,Ningbo,Jinan
+Ningbo Rockets,21,864,Jinan,Ningbo
+Ningbo Rockets,22,0,Ningbo,Ningbo
+Ningbo Rockets,23,0,Ningbo,Ningbo
+Ningbo Rockets,24,1113,Ningbo,Guangzhou
+Ningbo Rockets,25,568,Guangzhou,Jinjiang
+Ningbo Rockets,26,631,Jinjiang,Hangzhou
+Ningbo Rockets,27,1542,Hangzhou,Chengdu
+Ningbo Rockets,28,1679,Chengdu,Ningbo
+Ningbo Rockets,29,0,Ningbo,Ningbo
+Ningbo Rockets,30,0,Ningbo,Ningbo
+Ningbo Rockets,31,1210,Ningbo,Beijing
+Ningbo Rockets,32,2411,Beijing,Urumqi
+Ningbo Rockets,33,3007,Urumqi,Nanjing
+Ningbo Rockets,34,358,Nanjing,Ningbo
+Ningbo Rockets,35,1121,Ningbo,Tianjin
+Ningbo Rockets,36,1121,Tianjin,Ningbo
+Ningbo Rockets,37,0,Ningbo,Ningbo
+Ningbo Rockets,38,698,Ningbo,Qingdao
+Ningbo Rockets,39,1585,Qingdao,Dongguan
+Ningbo Rockets,40,62,Dongguan,Shenzhen
+Ningbo Rockets,41,1104,Shenzhen,Ningbo
+Ningbo Rockets,42,0,Ningbo,Ningbo
+Qingdao Eagles,1,1623,Qingdao,Shenzhen
+Qingdao Eagles,2,1623,Shenzhen,Qingdao
+Qingdao Eagles,3,0,Qingdao,Qingdao
+Qingdao Eagles,4,1585,Qingdao,Dongguan
+Qingdao Eagles,5,3325,Dongguan,Urumqi
+Qingdao Eagles,6,2902,Urumqi,Qingdao
+Qingdao Eagles,7,0,Qingdao,Qingdao
+Qingdao Eagles,8,531,Qingdao,Suzhou
+Qingdao Eagles,9,121,Suzhou,Hangzhou
+Qingdao Eagles,10,1542,Hangzhou,Chengdu
+Qingdao Eagles,11,1632,Chengdu,Qingdao
+Qingdao Eagles,12,0,Qingdao,Qingdao
+Qingdao Eagles,13,959,Qingdao,Changchun
+Qingdao Eagles,14,272,Changchun,Shenyang
+Qingdao Eagles,15,690,Shenyang,Qingdao
+Qingdao Eagles,16,0,Qingdao,Qingdao
+Qingdao Eagles,17,644,Qingdao,Hangzhou
+Qingdao Eagles,18,141,Hangzhou,Ningbo
+Qingdao Eagles,19,698,Ningbo,Qingdao
+Qingdao Eagles,20,0,Qingdao,Qingdao
+Qingdao Eagles,21,551,Qingdao,Beijing
+Qingdao Eagles,22,0,Beijing,Beijing
+Qingdao Eagles,23,551,Beijing,Qingdao
+Qingdao Eagles,24,0,Qingdao,Qingdao
+Qingdao Eagles,25,310,Qingdao,Jinan
+Qingdao Eagles,26,730,Jinan,Shanghai
+Qingdao Eagles,27,547,Shanghai,Qingdao
+Qingdao Eagles,28,469,Qingdao,Nanjing
+Qingdao Eagles,29,810,Nanjing,Jinjiang
+Qingdao Eagles,30,568,Jinjiang,Guangzhou
+Qingdao Eagles,31,1593,Guangzhou,Qingdao
+Qingdao Eagles,32,0,Qingdao,Qingdao
+Qingdao Eagles,33,0,Qingdao,Qingdao
+Qingdao Eagles,34,1267,Qingdao,Jinjiang
+Qingdao Eagles,35,1562,Jinjiang,Taiyuan
+Qingdao Eagles,36,724,Taiyuan,Qingdao
+Qingdao Eagles,37,0,Qingdao,Qingdao
+Qingdao Eagles,38,0,Qingdao,Qingdao
+Qingdao Eagles,39,551,Qingdao,Beijing
+Qingdao Eagles,40,103,Beijing,Tianjin
+Qingdao Eagles,41,451,Tianjin,Qingdao
+Qingdao Eagles,42,0,Qingdao,Qingdao
+Shandong Hi-Speed Kirin,1,365,Jinan,Beijing
+Shandong Hi-Speed Kirin,3,365,Beijing,Jinan
+Shandong Hi-Speed Kirin,4,0,Jinan,Jinan
+Shandong Hi-Speed Kirin,5,0,Jinan,Jinan
+Shandong Hi-Speed Kirin,6,1547,Jinan,Dongguan
+Shandong Hi-Speed Kirin,7,1585,Dongguan,Qingdao
+Shandong Hi-Speed Kirin,8,310,Qingdao,Jinan
+Shandong Hi-Speed Kirin,9,0,Jinan,Jinan
+Shandong Hi-Speed Kirin,10,536,Jinan,Nanjing
+Shandong Hi-Speed Kirin,11,810,Nanjing,Jinjiang
+Shandong Hi-Speed Kirin,12,1693,Jinjiang,Beijing
+Shandong Hi-Speed Kirin,13,365,Beijing,Jinan
+Shandong Hi-Speed Kirin,14,0,Jinan,Jinan
+Shandong Hi-Speed Kirin,15,0,Jinan,Jinan
+Shandong Hi-Speed Kirin,16,681,Jinan,Suzhou
+Shandong Hi-Speed Kirin,17,1453,Suzhou,Changchun
+Shandong Hi-Speed Kirin,18,272,Changchun,Shenyang
+Shandong Hi-Speed Kirin,19,797,Shenyang,Jinan
+Shandong Hi-Speed Kirin,20,0,Jinan,Jinan
+Shandong Hi-Speed Kirin,21,767,Jinan,Hangzhou
+Shandong Hi-Speed Kirin,22,767,Hangzhou,Jinan
+Shandong Hi-Speed Kirin,23,301,Jinan,Tianjin
+Shandong Hi-Speed Kirin,2,1844,Tianjin,Guangzhou
+Shandong Hi-Speed Kirin,24,1546,Guangzhou,Jinan
+Shandong Hi-Speed Kirin,25,0,Jinan,Jinan
+Shandong Hi-Speed Kirin,26,0,Jinan,Jinan
+Shandong Hi-Speed Kirin,27,730,Jinan,Shanghai
+Shandong Hi-Speed Kirin,28,730,Shanghai,Jinan
+Shandong Hi-Speed Kirin,29,1373,Jinan,Chengdu
+Shandong Hi-Speed Kirin,30,2065,Chengdu,Urumqi
+Shandong Hi-Speed Kirin,31,2189,Urumqi,Taiyuan
+Shandong Hi-Speed Kirin,32,416,Taiyuan,Jinan
+Shandong Hi-Speed Kirin,33,0,Jinan,Jinan
+Shandong Hi-Speed Kirin,34,864,Jinan,Ningbo
+Shandong Hi-Speed Kirin,35,864,Ningbo,Jinan
+Shandong Hi-Speed Kirin,36,767,Jinan,Hangzhou
+Shandong Hi-Speed Kirin,37,0,Hangzhou,Hangzhou
+Shandong Hi-Speed Kirin,38,767,Hangzhou,Jinan
+Shandong Hi-Speed Kirin,39,365,Jinan,Beijing
+Shandong Hi-Speed Kirin,40,365,Beijing,Jinan
+Shandong Hi-Speed Kirin,41,1594,Jinan,Shenzhen
+Shandong Hi-Speed Kirin,42,1594,Shenzhen,Jinan
+Shanghai Sharks,1,0,Shanghai,Shanghai
+Shanghai Sharks,2,270,Shanghai,Nanjing
+Shanghai Sharks,3,189,Nanjing,Suzhou
+Shanghai Sharks,4,121,Suzhou,Hangzhou
+Shanghai Sharks,5,165,Hangzhou,Shanghai
+Shanghai Sharks,6,0,Shanghai,Shanghai
+Shanghai Sharks,7,0,Shanghai,Shanghai
+Shanghai Sharks,8,1067,Shanghai,Beijing
+Shanghai Sharks,9,627,Beijing,Shenyang
+Shanghai Sharks,10,1189,Shenyang,Shanghai
+Shanghai Sharks,11,0,Shanghai,Shanghai
+Shanghai Sharks,12,547,Shanghai,Qingdao
+Shanghai Sharks,13,547,Qingdao,Shanghai
+Shanghai Sharks,14,1213,Shanghai,Shenzhen
+Shanghai Sharks,15,62,Shenzhen,Dongguan
+Shanghai Sharks,16,1190,Dongguan,Shanghai
+Shanghai Sharks,17,0,Shanghai,Shanghai
+Shanghai Sharks,18,772,Shanghai,Jinjiang
+Shanghai Sharks,19,631,Jinjiang,Hangzhou
+Shanghai Sharks,20,165,Hangzhou,Shanghai
+Shanghai Sharks,21,0,Shanghai,Shanghai
+Shanghai Sharks,22,0,Shanghai,Shanghai
+Shanghai Sharks,23,1190,Shanghai,Dongguan
+Shanghai Sharks,24,1190,Dongguan,Shanghai
+Shanghai Sharks,25,1661,Shanghai,Chengdu
+Shanghai Sharks,26,1661,Chengdu,Shanghai
+Shanghai Sharks,27,0,Shanghai,Shanghai
+Shanghai Sharks,28,0,Shanghai,Shanghai
+Shanghai Sharks,29,0,Shanghai,Shanghai
+Shanghai Sharks,30,1100,Shanghai,Taiyuan
+Shanghai Sharks,31,449,Taiyuan,Tianjin
+Shanghai Sharks,32,449,Tianjin,Taiyuan
+Shanghai Sharks,33,1260,Taiyuan,Changchun
+Shanghai Sharks,34,1440,Changchun,Shanghai
+Shanghai Sharks,35,0,Shanghai,Shanghai
+Shanghai Sharks,36,152,Shanghai,Ningbo
+Shanghai Sharks,37,152,Ningbo,Shanghai
+Shanghai Sharks,38,1067,Shanghai,Beijing
+Shanghai Sharks,39,1889,Beijing,Guangzhou
+Shanghai Sharks,40,3284,Guangzhou,Urumqi
+Shanghai Sharks,41,3268,Urumqi,Shanghai
+Shanghai Sharks,42,730,Shanghai,Jinan
+Shanxi Loongs,1,1097,Taiyuan,Hangzhou
+Shanxi Loongs,2,1097,Hangzhou,Taiyuan
+Shanxi Loongs,3,0,Taiyuan,Taiyuan
+Shanxi Loongs,4,449,Taiyuan,Tianjin
+Shanxi Loongs,5,820,Tianjin,Nanjing
+Shanxi Loongs,6,469,Nanjing,Qingdao
+Shanxi Loongs,7,724,Qingdao,Taiyuan
+Shanxi Loongs,8,416,Taiyuan,Jinan
+Shanxi Loongs,9,416,Jinan,Taiyuan
+Shanxi Loongs,10,0,Taiyuan,Taiyuan
+Shanxi Loongs,11,0,Taiyuan,Taiyuan
+Shanxi Loongs,12,0,Taiyuan,Taiyuan
+Shanxi Loongs,13,1100,Taiyuan,Shanghai
+Shanxi Loongs,14,152,Shanghai,Ningbo
+Shanxi Loongs,15,1210,Ningbo,Beijing
+Shanxi Loongs,16,403,Beijing,Taiyuan
+Shanxi Loongs,17,0,Taiyuan,Taiyuan
+Shanxi Loongs,18,1710,Taiyuan,Shenzhen
+Shanxi Loongs,19,62,Shenzhen,Dongguan
+Shanxi Loongs,20,1655,Dongguan,Taiyuan
+Shanxi Loongs,21,1097,Taiyuan,Hangzhou
+Shanxi Loongs,22,1573,Hangzhou,Changchun
+Shanxi Loongs,23,2378,Changchun,Chengdu
+Shanxi Loongs,24,1124,Chengdu,Taiyuan
+Shanxi Loongs,25,1026,Taiyuan,Shenyang
+Shanxi Loongs,26,272,Shenyang,Changchun
+Shanxi Loongs,27,1260,Changchun,Taiyuan
+Shanxi Loongs,28,1562,Taiyuan,Jinjiang
+Shanxi Loongs,29,568,Jinjiang,Guangzhou
+Shanxi Loongs,30,1641,Guangzhou,Taiyuan
+Shanxi Loongs,31,0,Taiyuan,Taiyuan
+Shanxi Loongs,32,0,Taiyuan,Taiyuan
+Shanxi Loongs,33,1124,Taiyuan,Chengdu
+Shanxi Loongs,34,2065,Chengdu,Urumqi
+Shanxi Loongs,35,2189,Urumqi,Taiyuan
+Shanxi Loongs,36,0,Taiyuan,Taiyuan
+Shanxi Loongs,37,0,Taiyuan,Taiyuan
+Shanxi Loongs,38,403,Taiyuan,Beijing
+Shanxi Loongs,39,403,Beijing,Taiyuan
+Shanxi Loongs,40,1036,Taiyuan,Suzhou
+Shanxi Loongs,41,1036,Suzhou,Taiyuan
+Shanxi Loongs,42,0,Taiyuan,Taiyuan
+Shenzhen Leopards,1,0,Shenzhen,Shenzhen
+Shenzhen Leopards,2,0,Shenzhen,Shenzhen
+Shenzhen Leopards,3,1104,Shenzhen,Ningbo
+Shenzhen Leopards,4,1210,Ningbo,Beijing
+Shenzhen Leopards,5,365,Beijing,Jinan
+Shenzhen Leopards,6,1594,Jinan,Shenzhen
+Shenzhen Leopards,7,1052,Shenzhen,Hangzhou
+Shenzhen Leopards,8,1052,Hangzhou,Shenzhen
+Shenzhen Leopards,9,0,Shenzhen,Shenzhen
+Shenzhen Leopards,10,0,Shenzhen,Shenzhen
+Shenzhen Leopards,11,1623,Shenzhen,Qingdao
+Shenzhen Leopards,12,1585,Qingdao,Dongguan
+Shenzhen Leopards,13,62,Dongguan,Shenzhen
+Shenzhen Leopards,14,0,Shenzhen,Shenzhen
+Shenzhen Leopards,15,1157,Shenzhen,Nanjing
+Shenzhen Leopards,16,1159,Nanjing,Shenyang
+Shenzhen Leopards,17,1315,Shenyang,Hangzhou
+Shenzhen Leopards,18,1052,Hangzhou,Shenzhen
+Shenzhen Leopards,19,0,Shenzhen,Shenzhen
+Shenzhen Leopards,20,0,Shenzhen,Shenzhen
+Shenzhen Leopards,21,1213,Shenzhen,Shanghai
+Shenzhen Leopards,22,85,Shanghai,Suzhou
+Shenzhen Leopards,23,189,Suzhou,Nanjing
+Shenzhen Leopards,24,1157,Nanjing,Shenzhen
+Shenzhen Leopards,25,0,Shenzhen,Shenzhen
+Shenzhen Leopards,26,0,Shenzhen,Shenzhen
+Shenzhen Leopards,27,1894,Shenzhen,Tianjin
+Shenzhen Leopards,28,1894,Tianjin,Shenzhen
+Shenzhen Leopards,29,0,Shenzhen,Shenzhen
+Shenzhen Leopards,30,0,Shenzhen,Shenzhen
+Shenzhen Leopards,31,521,Shenzhen,Jinjiang
+Shenzhen Leopards,32,2204,Jinjiang,Changchun
+Shenzhen Leopards,33,2582,Changchun,Shenzhen
+Shenzhen Leopards,34,1943,Shenzhen,Beijing
+Shenzhen Leopards,35,2411,Beijing,Urumqi
+Shenzhen Leopards,36,2189,Urumqi,Taiyuan
+Shenzhen Leopards,37,1710,Taiyuan,Shenzhen
+Shenzhen Leopards,38,1335,Shenzhen,Chengdu
+Shenzhen Leopards,39,2065,Chengdu,Urumqi
+Shenzhen Leopards,40,3386,Urumqi,Shenzhen
+Shenzhen Leopards,41,0,Shenzhen,Shenzhen
+Shenzhen Leopards,42,104,Shenzhen,Guangzhou
+Sichuan Blue Whales,1,0,Chengdu,Chengdu
+Sichuan Blue Whales,2,1632,Chengdu,Qingdao
+Sichuan Blue Whales,3,310,Qingdao,Jinan
+Sichuan Blue Whales,4,1373,Jinan,Chengdu
+Sichuan Blue Whales,5,0,Chengdu,Chengdu
+Sichuan Blue Whales,6,1335,Chengdu,Shenzhen
+Sichuan Blue Whales,7,1213,Shenzhen,Shanghai
+Sichuan Blue Whales,8,152,Shanghai,Ningbo
+Sichuan Blue Whales,9,1679,Ningbo,Chengdu
+Sichuan Blue Whales,10,0,Chengdu,Chengdu
+Sichuan Blue Whales,11,1124,Chengdu,Taiyuan
+Sichuan Blue Whales,12,1124,Taiyuan,Chengdu
+Sichuan Blue Whales,13,1231,Chengdu,Guangzhou
+Sichuan Blue Whales,14,1048,Guangzhou,Hangzhou
+Sichuan Blue Whales,15,0,Hangzhou,Hangzhou
+Sichuan Blue Whales,16,1542,Hangzhou,Chengdu
+Sichuan Blue Whales,17,0,Chengdu,Chengdu
+Sichuan Blue Whales,18,2065,Chengdu,Urumqi
+Sichuan Blue Whales,19,3509,Urumqi,Jinjiang
+Sichuan Blue Whales,20,1563,Jinjiang,Chengdu
+Sichuan Blue Whales,21,1408,Chengdu,Nanjing
+Sichuan Blue Whales,22,1408,Nanjing,Chengdu
+Sichuan Blue Whales,23,0,Chengdu,Chengdu
+Sichuan Blue Whales,24,1525,Chengdu,Beijing
+Sichuan Blue Whales,25,1525,Beijing,Chengdu
+Sichuan Blue Whales,26,0,Chengdu,Chengdu
+Sichuan Blue Whales,27,0,Chengdu,Chengdu
+Sichuan Blue Whales,28,1661,Chengdu,Shanghai
+Sichuan Blue Whales,29,1661,Shanghai,Chengdu
+Sichuan Blue Whales,30,1275,Chengdu,Dongguan
+Sichuan Blue Whales,31,1275,Dongguan,Chengdu
+Sichuan Blue Whales,32,0,Chengdu,Chengdu
+Sichuan Blue Whales,33,0,Chengdu,Chengdu
+Sichuan Blue Whales,34,2378,Chengdu,Changchun
+Sichuan Blue Whales,35,272,Changchun,Shenyang
+Sichuan Blue Whales,36,272,Shenyang,Changchun
+Sichuan Blue Whales,37,2378,Changchun,Chengdu
+Sichuan Blue Whales,38,0,Chengdu,Chengdu
+Sichuan Blue Whales,39,1552,Chengdu,Tianjin
+Sichuan Blue Whales,40,103,Tianjin,Beijing
+Sichuan Blue Whales,41,1028,Beijing,Suzhou
+Sichuan Blue Whales,42,1576,Suzhou,Chengdu
+Tianjin Pioneers,1,0,Tianjin,Tianjin
+Tianjin Pioneers,2,103,Tianjin,Beijing
+Tianjin Pioneers,3,856,Beijing,Changchun
+Tianjin Pioneers,4,828,Changchun,Tianjin
+Tianjin Pioneers,5,0,Tianjin,Tianjin
+Tianjin Pioneers,6,820,Tianjin,Nanjing
+Tianjin Pioneers,7,358,Nanjing,Ningbo
+Tianjin Pioneers,8,1121,Ningbo,Tianjin
+Tianjin Pioneers,9,0,Tianjin,Tianjin
+Tianjin Pioneers,10,0,Tianjin,Tianjin
+Tianjin Pioneers,11,0,Tianjin,Tianjin
+Tianjin Pioneers,12,449,Tianjin,Taiyuan
+Tianjin Pioneers,13,1562,Taiyuan,Jinjiang
+Tianjin Pioneers,14,568,Jinjiang,Guangzhou
+Tianjin Pioneers,15,1844,Guangzhou,Tianjin
+Tianjin Pioneers,16,0,Tianjin,Tianjin
+Tianjin Pioneers,17,0,Tianjin,Tianjin
+Tianjin Pioneers,18,941,Tianjin,Suzhou
+Tianjin Pioneers,19,941,Suzhou,Tianjin
+Tianjin Pioneers,20,1847,Tianjin,Dongguan
+Tianjin Pioneers,21,1847,Dongguan,Tianjin
+Tianjin Pioneers,22,581,Tianjin,Shenyang
+Tianjin Pioneers,23,581,Shenyang,Tianjin
+Tianjin Pioneers,24,0,Tianjin,Tianjin
+Tianjin Pioneers,25,103,Tianjin,Beijing
+Tianjin Pioneers,26,0,Beijing,Beijing
+Tianjin Pioneers,27,103,Beijing,Tianjin
+Tianjin Pioneers,28,301,Tianjin,Jinan
+Tianjin Pioneers,29,1594,Jinan,Shenzhen
+Tianjin Pioneers,30,1894,Shenzhen,Tianjin
+Tianjin Pioneers,31,0,Tianjin,Tianjin
+Tianjin Pioneers,32,301,Tianjin,Jinan
+Tianjin Pioneers,33,310,Jinan,Qingdao
+Tianjin Pioneers,34,547,Qingdao,Shanghai
+Tianjin Pioneers,35,976,Shanghai,Tianjin
+Tianjin Pioneers,36,2509,Tianjin,Urumqi
+Tianjin Pioneers,37,2065,Urumqi,Chengdu
+Tianjin Pioneers,38,1552,Chengdu,Tianjin
+Tianjin Pioneers,39,0,Tianjin,Tianjin
+Tianjin Pioneers,40,0,Tianjin,Tianjin
+Tianjin Pioneers,41,1040,Tianjin,Hangzhou
+Tianjin Pioneers,42,0,Hangzhou,Hangzhou
+Xinjiang Flying Tigers,1,0,Urumqi,Urumqi
+Xinjiang Flying Tigers,2,2411,Urumqi,Beijing
+Xinjiang Flying Tigers,3,0,Beijing,Beijing
+Xinjiang Flying Tigers,4,856,Beijing,Changchun
+Xinjiang Flying Tigers,5,2998,Changchun,Urumqi
+Xinjiang Flying Tigers,6,0,Urumqi,Urumqi
+Xinjiang Flying Tigers,7,3228,Urumqi,Hangzhou
+Xinjiang Flying Tigers,8,3228,Hangzhou,Urumqi
+Xinjiang Flying Tigers,9,2603,Urumqi,Jinan
+Xinjiang Flying Tigers,10,1328,Jinan,Jinjiang
+Xinjiang Flying Tigers,11,568,Jinjiang,Guangzhou
+Xinjiang Flying Tigers,12,1048,Guangzhou,Hangzhou
+Xinjiang Flying Tigers,13,3228,Hangzhou,Urumqi
+Xinjiang Flying Tigers,14,0,Urumqi,Urumqi
+Xinjiang Flying Tigers,15,2907,Urumqi,Shenyang
+Xinjiang Flying Tigers,16,1189,Shenyang,Shanghai
+Xinjiang Flying Tigers,17,85,Shanghai,Suzhou
+Xinjiang Flying Tigers,18,3194,Suzhou,Urumqi
+Xinjiang Flying Tigers,19,0,Urumqi,Urumqi
+Xinjiang Flying Tigers,20,3007,Urumqi,Nanjing
+Xinjiang Flying Tigers,21,189,Nanjing,Suzhou
+Xinjiang Flying Tigers,22,1576,Suzhou,Chengdu
+Xinjiang Flying Tigers,23,2065,Chengdu,Urumqi
+Xinjiang Flying Tigers,24,0,Urumqi,Urumqi
+Xinjiang Flying Tigers,25,0,Urumqi,Urumqi
+Xinjiang Flying Tigers,26,0,Urumqi,Urumqi
+Xinjiang Flying Tigers,27,3325,Urumqi,Dongguan
+Xinjiang Flying Tigers,28,62,Dongguan,Shenzhen
+Xinjiang Flying Tigers,29,1104,Shenzhen,Ningbo
+Xinjiang Flying Tigers,30,3362,Ningbo,Urumqi
+Xinjiang Flying Tigers,31,0,Urumqi,Urumqi
+Xinjiang Flying Tigers,32,0,Urumqi,Urumqi
+Xinjiang Flying Tigers,33,2907,Urumqi,Shenyang
+Xinjiang Flying Tigers,34,2907,Shenyang,Urumqi
+Xinjiang Flying Tigers,35,0,Urumqi,Urumqi
+Xinjiang Flying Tigers,36,0,Urumqi,Urumqi
+Xinjiang Flying Tigers,37,2189,Urumqi,Taiyuan
+Xinjiang Flying Tigers,38,449,Taiyuan,Tianjin
+Xinjiang Flying Tigers,39,2509,Tianjin,Urumqi
+Xinjiang Flying Tigers,40,0,Urumqi,Urumqi
+Xinjiang Flying Tigers,41,0,Urumqi,Urumqi
+Xinjiang Flying Tigers,42,2902,Urumqi,Qingdao
+Zhejiang Golden Bulls,1,0,Hangzhou,Hangzhou
+Zhejiang Golden Bulls,2,0,Hangzhou,Hangzhou
+Zhejiang Golden Bulls,3,1097,Hangzhou,Taiyuan
+Zhejiang Golden Bulls,4,1097,Taiyuan,Hangzhou
+Zhejiang Golden Bulls,5,165,Hangzhou,Shanghai
+Zhejiang Golden Bulls,6,152,Shanghai,Ningbo
+Zhejiang Golden Bulls,7,141,Ningbo,Hangzhou
+Zhejiang Golden Bulls,8,0,Hangzhou,Hangzhou
+Zhejiang Golden Bulls,9,0,Hangzhou,Hangzhou
+Zhejiang Golden Bulls,10,1052,Hangzhou,Shenzhen
+Zhejiang Golden Bulls,11,62,Shenzhen,Dongguan
+Zhejiang Golden Bulls,12,51,Dongguan,Guangzhou
+Zhejiang Golden Bulls,13,1048,Guangzhou,Hangzhou
+Zhejiang Golden Bulls,14,0,Hangzhou,Hangzhou
+Zhejiang Golden Bulls,15,0,Hangzhou,Hangzhou
+Zhejiang Golden Bulls,16,644,Hangzhou,Qingdao
+Zhejiang Golden Bulls,17,644,Qingdao,Hangzhou
+Zhejiang Golden Bulls,18,1123,Hangzhou,Beijing
+Zhejiang Golden Bulls,19,1123,Beijing,Hangzhou
+Zhejiang Golden Bulls,20,0,Hangzhou,Hangzhou
+Zhejiang Golden Bulls,21,0,Hangzhou,Hangzhou
+Zhejiang Golden Bulls,22,0,Hangzhou,Hangzhou
+Zhejiang Golden Bulls,23,3228,Hangzhou,Urumqi
+Zhejiang Golden Bulls,24,2509,Urumqi,Tianjin
+Zhejiang Golden Bulls,25,1040,Tianjin,Hangzhou
+Zhejiang Golden Bulls,26,767,Hangzhou,Jinan
+Zhejiang Golden Bulls,27,536,Jinan,Nanjing
+Zhejiang Golden Bulls,28,237,Nanjing,Hangzhou
+Zhejiang Golden Bulls,29,1123,Hangzhou,Beijing
+Zhejiang Golden Bulls,30,0,Beijing,Beijing
+Zhejiang Golden Bulls,31,551,Beijing,Qingdao
+Zhejiang Golden Bulls,32,644,Qingdao,Hangzhou
+Zhejiang Golden Bulls,33,0,Hangzhou,Hangzhou
+Zhejiang Golden Bulls,34,0,Hangzhou,Hangzhou
+Zhejiang Golden Bulls,35,0,Hangzhou,Hangzhou
+Zhejiang Golden Bulls,36,121,Hangzhou,Suzhou
+Zhejiang Golden Bulls,37,121,Suzhou,Hangzhou
+Zhejiang Golden Bulls,38,631,Hangzhou,Jinjiang
+Zhejiang Golden Bulls,39,2204,Jinjiang,Changchun
+Zhejiang Golden Bulls,40,272,Changchun,Shenyang
+Zhejiang Golden Bulls,41,1315,Shenyang,Hangzhou
+Zhejiang Golden Bulls,42,1542,Hangzhou,Chengdu
+Zhejiang Guangsha Lions,1,0,Hangzhou,Hangzhou
+Zhejiang Guangsha Lions,2,1315,Hangzhou,Shenyang
+Zhejiang Guangsha Lions,3,1946,Shenyang,Jinjiang
+Zhejiang Guangsha Lions,4,631,Jinjiang,Hangzhou
+Zhejiang Guangsha Lions,5,0,Hangzhou,Hangzhou
+Zhejiang Guangsha Lions,6,0,Hangzhou,Hangzhou
+Zhejiang Guangsha Lions,7,0,Hangzhou,Hangzhou
+Zhejiang Guangsha Lions,8,1123,Hangzhou,Beijing
+Zhejiang Guangsha Lions,9,103,Beijing,Tianjin
+Zhejiang Guangsha Lions,10,1040,Tianjin,Hangzhou
+Zhejiang Guangsha Lions,11,165,Hangzhou,Shanghai
+Zhejiang Guangsha Lions,12,165,Shanghai,Hangzhou
+Zhejiang Guangsha Lions,13,141,Hangzhou,Ningbo
+Zhejiang Guangsha Lions,14,3362,Ningbo,Urumqi
+Zhejiang Guangsha Lions,15,3228,Urumqi,Hangzhou
+Zhejiang Guangsha Lions,16,0,Hangzhou,Hangzhou
+Zhejiang Guangsha Lions,17,0,Hangzhou,Hangzhou
+Zhejiang Guangsha Lions,18,1123,Hangzhou,Beijing
+Zhejiang Guangsha Lions,19,365,Beijing,Jinan
+Zhejiang Guangsha Lions,20,310,Jinan,Qingdao
+Zhejiang Guangsha Lions,21,644,Qingdao,Hangzhou
+Zhejiang Guangsha Lions,22,0,Hangzhou,Hangzhou
+Zhejiang Guangsha Lions,23,1573,Hangzhou,Changchun
+Zhejiang Guangsha Lions,24,1573,Changchun,Hangzhou
+Zhejiang Guangsha Lions,25,0,Hangzhou,Hangzhou
+Zhejiang Guangsha Lions,26,0,Hangzhou,Hangzhou
+Zhejiang Guangsha Lions,27,0,Hangzhou,Hangzhou
+Zhejiang Guangsha Lions,28,0,Hangzhou,Hangzhou
+Zhejiang Guangsha Lions,29,121,Hangzhou,Suzhou
+Zhejiang Guangsha Lions,30,941,Suzhou,Tianjin
+Zhejiang Guangsha Lions,31,1552,Tianjin,Chengdu
+Zhejiang Guangsha Lions,32,1542,Chengdu,Hangzhou
+Zhejiang Guangsha Lions,33,1052,Hangzhou,Shenzhen
+Zhejiang Guangsha Lions,34,62,Shenzhen,Dongguan
+Zhejiang Guangsha Lions,35,51,Dongguan,Guangzhou
+Zhejiang Guangsha Lions,36,1048,Guangzhou,Hangzhou
+Zhejiang Guangsha Lions,37,141,Hangzhou,Ningbo
+Zhejiang Guangsha Lions,38,141,Ningbo,Hangzhou
+Zhejiang Guangsha Lions,39,1097,Hangzhou,Taiyuan
+Zhejiang Guangsha Lions,40,861,Taiyuan,Nanjing
+Zhejiang Guangsha Lions,41,237,Nanjing,Hangzhou
+Zhejiang Guangsha Lions,42,0,Hangzhou,Hangzhou

@@ -1,0 +1,841 @@
+Team,Round,Km,From,To
+Shandong Hi-Speed Kirin,1,0,Jinan,Jinan
+Sichuan Blue Whales,1,1373,Chengdu,Jinan
+Beijing Ducks,1,0,Beijing,Beijing
+Liaoning Flying Leopards,1,627,Shenyang,Beijing
+Ningbo Rockets,1,0,Ningbo,Ningbo
+Shenzhen Leopards,1,1104,Shenzhen,Ningbo
+Beijing Royal Fighters,1,0,Beijing,Beijing
+Xinjiang Flying Tigers,1,2411,Urumqi,Beijing
+Fujian Sturgeons,1,0,Jinjiang,Jinjiang
+Zhejiang Guangsha Lions,1,631,Hangzhou,Jinjiang
+Qingdao Eagles,1,0,Qingdao,Qingdao
+Nanjing Monkey Kings,1,469,Nanjing,Qingdao
+Shanxi Loongs,1,0,Taiyuan,Taiyuan
+Zhejiang Golden Bulls,1,1097,Hangzhou,Taiyuan
+Guangdong Southern Tigers,1,0,Dongguan,Dongguan
+Guangzhou Loong Lions,1,51,Guangzhou,Dongguan
+Jiangsu Dragons,1,0,Suzhou,Suzhou
+Shanghai Sharks,1,85,Shanghai,Suzhou
+Tianjin Pioneers,1,0,Tianjin,Tianjin
+Jilin Northeast Tigers,1,828,Changchun,Tianjin
+Guangzhou Loong Lions,2,51,Dongguan,Guangzhou
+Shenzhen Leopards,2,1113,Ningbo,Guangzhou
+Jiangsu Dragons,2,0,Suzhou,Suzhou
+Liaoning Flying Leopards,2,1028,Beijing,Suzhou
+Qingdao Eagles,2,0,Qingdao,Qingdao
+Xinjiang Flying Tigers,2,551,Beijing,Qingdao
+Shandong Hi-Speed Kirin,2,0,Jinan,Jinan
+Shanghai Sharks,2,681,Suzhou,Jinan
+Shanxi Loongs,2,0,Taiyuan,Taiyuan
+Nanjing Monkey Kings,2,724,Qingdao,Taiyuan
+Beijing Ducks,2,0,Beijing,Beijing
+Jilin Northeast Tigers,2,103,Tianjin,Beijing
+Sichuan Blue Whales,2,1373,Jinan,Chengdu
+Zhejiang Golden Bulls,2,1124,Taiyuan,Chengdu
+Guangdong Southern Tigers,2,0,Dongguan,Dongguan
+Fujian Sturgeons,2,526,Jinjiang,Dongguan
+Tianjin Pioneers,2,0,Tianjin,Tianjin
+Zhejiang Guangsha Lions,2,1623,Jinjiang,Tianjin
+Ningbo Rockets,2,0,Ningbo,Ningbo
+Beijing Royal Fighters,2,1210,Beijing,Ningbo
+Guangdong Southern Tigers,3,0,Dongguan,Dongguan
+Shenzhen Leopards,3,51,Guangzhou,Dongguan
+Qingdao Eagles,3,0,Qingdao,Qingdao
+Shanghai Sharks,3,310,Jinan,Qingdao
+Guangzhou Loong Lions,3,0,Guangzhou,Guangzhou
+Zhejiang Golden Bulls,3,1231,Chengdu,Guangzhou
+Shanxi Loongs,3,0,Taiyuan,Taiyuan
+Tianjin Pioneers,3,449,Tianjin,Taiyuan
+Sichuan Blue Whales,3,0,Chengdu,Chengdu
+Beijing Royal Fighters,3,1679,Ningbo,Chengdu
+Ningbo Rockets,3,0,Ningbo,Ningbo
+Nanjing Monkey Kings,3,1216,Taiyuan,Ningbo
+Jiangsu Dragons,3,0,Suzhou,Suzhou
+Liaoning Flying Leopards,3,0,Suzhou,Suzhou
+Zhejiang Guangsha Lions,3,1040,Tianjin,Hangzhou
+Xinjiang Flying Tigers,3,644,Qingdao,Hangzhou
+Fujian Sturgeons,3,526,Dongguan,Jinjiang
+Jilin Northeast Tigers,3,1693,Beijing,Jinjiang
+Shandong Hi-Speed Kirin,3,0,Jinan,Jinan
+Beijing Ducks,3,365,Beijing,Jinan
+Guangzhou Loong Lions,4,0,Guangzhou,Guangzhou
+Beijing Royal Fighters,4,1231,Chengdu,Guangzhou
+Zhejiang Guangsha Lions,4,0,Hangzhou,Hangzhou
+Qingdao Eagles,4,644,Qingdao,Hangzhou
+Fujian Sturgeons,4,0,Jinjiang,Jinjiang
+Nanjing Monkey Kings,4,638,Ningbo,Jinjiang
+Jiangsu Dragons,4,0,Suzhou,Suzhou
+Xinjiang Flying Tigers,4,121,Hangzhou,Suzhou
+Shanghai Sharks,4,547,Qingdao,Shanghai
+Beijing Ducks,4,730,Jinan,Shanghai
+Shanxi Loongs,4,0,Taiyuan,Taiyuan
+Liaoning Flying Leopards,4,1036,Suzhou,Taiyuan
+Shenzhen Leopards,4,62,Dongguan,Shenzhen
+Zhejiang Golden Bulls,4,104,Guangzhou,Shenzhen
+Tianjin Pioneers,4,449,Taiyuan,Tianjin
+Ningbo Rockets,4,1121,Ningbo,Tianjin
+Shandong Hi-Speed Kirin,4,0,Jinan,Jinan
+Jilin Northeast Tigers,4,1328,Jinjiang,Jinan
+Sichuan Blue Whales,4,0,Chengdu,Chengdu
+Guangdong Southern Tigers,4,1275,Dongguan,Chengdu
+Beijing Royal Fighters,5,1889,Guangzhou,Beijing
+Liaoning Flying Leopards,5,403,Taiyuan,Beijing
+Shanghai Sharks,5,0,Shanghai,Shanghai
+Sichuan Blue Whales,5,1661,Chengdu,Shanghai
+Zhejiang Guangsha Lions,5,0,Hangzhou,Hangzhou
+Shenzhen Leopards,5,1052,Shenzhen,Hangzhou
+Fujian Sturgeons,5,0,Jinjiang,Jinjiang
+Beijing Ducks,5,772,Shanghai,Jinjiang
+Guangzhou Loong Lions,5,0,Guangzhou,Guangzhou
+Jilin Northeast Tigers,5,1546,Jinan,Guangzhou
+Qingdao Eagles,5,644,Hangzhou,Qingdao
+Shandong Hi-Speed Kirin,5,310,Jinan,Qingdao
+Zhejiang Golden Bulls,5,1052,Shenzhen,Hangzhou
+Xinjiang Flying Tigers,5,121,Suzhou,Hangzhou
+Tianjin Pioneers,5,0,Tianjin,Tianjin
+Ningbo Rockets,5,0,Tianjin,Tianjin
+Shanxi Loongs,5,0,Taiyuan,Taiyuan
+Guangdong Southern Tigers,5,1124,Chengdu,Taiyuan
+Jiangsu Dragons,5,0,Suzhou,Suzhou
+Nanjing Monkey Kings,5,752,Jinjiang,Suzhou
+Guangdong Southern Tigers,6,1655,Taiyuan,Dongguan
+Jilin Northeast Tigers,6,51,Guangzhou,Dongguan
+Tianjin Pioneers,6,0,Tianjin,Tianjin
+Beijing Ducks,6,1623,Jinjiang,Tianjin
+Ningbo Rockets,6,1121,Tianjin,Ningbo
+Liaoning Flying Leopards,6,1210,Beijing,Ningbo
+Jiangsu Dragons,6,0,Suzhou,Suzhou
+Xinjiang Flying Tigers,6,121,Hangzhou,Suzhou
+Zhejiang Golden Bulls,6,0,Hangzhou,Hangzhou
+Shanxi Loongs,6,1097,Taiyuan,Hangzhou
+Zhejiang Guangsha Lions,6,0,Hangzhou,Hangzhou
+Shandong Hi-Speed Kirin,6,644,Qingdao,Hangzhou
+Nanjing Monkey Kings,6,189,Suzhou,Nanjing
+Sichuan Blue Whales,6,270,Shanghai,Nanjing
+Shanghai Sharks,6,0,Shanghai,Shanghai
+Shenzhen Leopards,6,165,Hangzhou,Shanghai
+Fujian Sturgeons,6,0,Jinjiang,Jinjiang
+Guangzhou Loong Lions,6,568,Guangzhou,Jinjiang
+Qingdao Eagles,6,0,Qingdao,Qingdao
+Beijing Royal Fighters,6,551,Beijing,Qingdao
+Ningbo Rockets,7,0,Ningbo,Ningbo
+Zhejiang Guangsha Lions,7,141,Hangzhou,Ningbo
+Beijing Royal Fighters,7,551,Qingdao,Beijing
+Beijing Ducks,7,103,Tianjin,Beijing
+Guangdong Southern Tigers,7,0,Dongguan,Dongguan
+Jilin Northeast Tigers,7,0,Dongguan,Dongguan
+Qingdao Eagles,7,0,Qingdao,Qingdao
+Liaoning Flying Leopards,7,698,Ningbo,Qingdao
+Nanjing Monkey Kings,7,0,Nanjing,Nanjing
+Guangzhou Loong Lions,7,810,Jinjiang,Nanjing
+Shanxi Loongs,7,1097,Hangzhou,Taiyuan
+Xinjiang Flying Tigers,7,1036,Suzhou,Taiyuan
+Shenzhen Leopards,7,1213,Shanghai,Shenzhen
+Jiangsu Dragons,7,1168,Suzhou,Shenzhen
+Sichuan Blue Whales,7,1408,Nanjing,Chengdu
+Tianjin Pioneers,7,1552,Tianjin,Chengdu
+Zhejiang Golden Bulls,7,0,Hangzhou,Hangzhou
+Shandong Hi-Speed Kirin,7,0,Hangzhou,Hangzhou
+Shanghai Sharks,7,0,Shanghai,Shanghai
+Fujian Sturgeons,7,772,Jinjiang,Shanghai
+Liaoning Flying Leopards,8,690,Qingdao,Shenyang
+Zhejiang Guangsha Lions,8,1338,Ningbo,Shenyang
+Beijing Ducks,8,0,Beijing,Beijing
+Xinjiang Flying Tigers,8,403,Taiyuan,Beijing
+Fujian Sturgeons,8,772,Shanghai,Jinjiang
+Jiangsu Dragons,8,521,Shenzhen,Jinjiang
+Beijing Royal Fighters,8,0,Beijing,Beijing
+Tianjin Pioneers,8,1525,Chengdu,Beijing
+Shenzhen Leopards,8,0,Shenzhen,Shenzhen
+Jilin Northeast Tigers,8,62,Dongguan,Shenzhen
+Zhejiang Golden Bulls,8,0,Hangzhou,Hangzhou
+Guangdong Southern Tigers,8,1027,Dongguan,Hangzhou
+Shandong Hi-Speed Kirin,8,767,Hangzhou,Jinan
+Guangzhou Loong Lions,8,536,Nanjing,Jinan
+Sichuan Blue Whales,8,0,Chengdu,Chengdu
+Qingdao Eagles,8,1632,Qingdao,Chengdu
+Ningbo Rockets,8,0,Ningbo,Ningbo
+Shanxi Loongs,8,1216,Taiyuan,Ningbo
+Nanjing Monkey Kings,8,0,Nanjing,Nanjing
+Shanghai Sharks,8,270,Shanghai,Nanjing
+Jiangsu Dragons,9,752,Jinjiang,Suzhou
+Guangdong Southern Tigers,9,121,Hangzhou,Suzhou
+Shenzhen Leopards,9,0,Shenzhen,Shenzhen
+Xinjiang Flying Tigers,9,1943,Beijing,Shenzhen
+Ningbo Rockets,9,0,Ningbo,Ningbo
+Guangzhou Loong Lions,9,864,Jinan,Ningbo
+Fujian Sturgeons,9,0,Jinjiang,Jinjiang
+Shanxi Loongs,9,638,Ningbo,Jinjiang
+Liaoning Flying Leopards,9,0,Shenyang,Shenyang
+Beijing Ducks,9,627,Beijing,Shenyang
+Nanjing Monkey Kings,9,0,Nanjing,Nanjing
+Qingdao Eagles,9,1408,Chengdu,Nanjing
+Zhejiang Golden Bulls,9,0,Hangzhou,Hangzhou
+Jilin Northeast Tigers,9,1052,Shenzhen,Hangzhou
+Tianjin Pioneers,9,103,Beijing,Tianjin
+Shandong Hi-Speed Kirin,9,301,Jinan,Tianjin
+Sichuan Blue Whales,9,0,Chengdu,Chengdu
+Shanghai Sharks,9,1408,Nanjing,Chengdu
+Beijing Royal Fighters,9,0,Beijing,Beijing
+Zhejiang Guangsha Lions,9,627,Shenyang,Beijing
+Liaoning Flying Leopards,10,0,Shenyang,Shenyang
+Shanghai Sharks,10,2132,Chengdu,Shenyang
+Shenzhen Leopards,10,0,Shenzhen,Shenzhen
+Beijing Royal Fighters,10,1943,Beijing,Shenzhen
+Beijing Ducks,10,627,Shenyang,Beijing
+Guangdong Southern Tigers,10,1028,Suzhou,Beijing
+Tianjin Pioneers,10,0,Tianjin,Tianjin
+Zhejiang Guangsha Lions,10,103,Beijing,Tianjin
+Zhejiang Golden Bulls,10,0,Hangzhou,Hangzhou
+Qingdao Eagles,10,237,Nanjing,Hangzhou
+Nanjing Monkey Kings,10,0,Nanjing,Nanjing
+Jilin Northeast Tigers,10,237,Hangzhou,Nanjing
+Shandong Hi-Speed Kirin,10,301,Tianjin,Jinan
+Xinjiang Flying Tigers,10,1594,Shenzhen,Jinan
+Shanxi Loongs,10,1562,Jinjiang,Taiyuan
+Guangzhou Loong Lions,10,1216,Ningbo,Taiyuan
+Fujian Sturgeons,10,0,Jinjiang,Jinjiang
+Sichuan Blue Whales,10,1563,Chengdu,Jinjiang
+Ningbo Rockets,10,0,Ningbo,Ningbo
+Jiangsu Dragons,10,184,Suzhou,Ningbo
+Shanghai Sharks,11,1189,Shenyang,Shanghai
+Ningbo Rockets,11,152,Ningbo,Shanghai
+Zhejiang Guangsha Lions,11,1040,Tianjin,Hangzhou
+Beijing Ducks,11,1123,Beijing,Hangzhou
+Fujian Sturgeons,11,0,Jinjiang,Jinjiang
+Xinjiang Flying Tigers,11,1328,Jinan,Jinjiang
+Liaoning Flying Leopards,11,0,Shenyang,Shenyang
+Jilin Northeast Tigers,11,1159,Nanjing,Shenyang
+Shanxi Loongs,11,0,Taiyuan,Taiyuan
+Jiangsu Dragons,11,1216,Ningbo,Taiyuan
+Tianjin Pioneers,11,0,Tianjin,Tianjin
+Guangzhou Loong Lions,11,449,Taiyuan,Tianjin
+Zhejiang Golden Bulls,11,0,Hangzhou,Hangzhou
+Shenzhen Leopards,11,1052,Shenzhen,Hangzhou
+Guangdong Southern Tigers,11,1894,Beijing,Dongguan
+Beijing Royal Fighters,11,62,Shenzhen,Dongguan
+Shandong Hi-Speed Kirin,11,0,Jinan,Jinan
+Nanjing Monkey Kings,11,536,Nanjing,Jinan
+Qingdao Eagles,11,644,Hangzhou,Qingdao
+Sichuan Blue Whales,11,1267,Jinjiang,Qingdao
+Guangdong Southern Tigers,12,0,Dongguan,Dongguan
+Xinjiang Flying Tigers,12,526,Jinjiang,Dongguan
+Shanxi Loongs,12,0,Taiyuan,Taiyuan
+Beijing Royal Fighters,12,1655,Dongguan,Taiyuan
+Shanghai Sharks,12,0,Shanghai,Shanghai
+Shandong Hi-Speed Kirin,12,730,Jinan,Shanghai
+Nanjing Monkey Kings,12,536,Jinan,Nanjing
+Zhejiang Golden Bulls,12,237,Hangzhou,Nanjing
+Tianjin Pioneers,12,0,Tianjin,Tianjin
+Shenzhen Leopards,12,1040,Hangzhou,Tianjin
+Zhejiang Guangsha Lions,12,0,Hangzhou,Hangzhou
+Jilin Northeast Tigers,12,1315,Shenyang,Hangzhou
+Liaoning Flying Leopards,12,0,Shenyang,Shenyang
+Guangzhou Loong Lions,12,581,Tianjin,Shenyang
+Qingdao Eagles,12,0,Qingdao,Qingdao
+Jiangsu Dragons,12,724,Taiyuan,Qingdao
+Fujian Sturgeons,12,0,Jinjiang,Jinjiang
+Beijing Ducks,12,631,Hangzhou,Jinjiang
+Ningbo Rockets,12,152,Shanghai,Ningbo
+Sichuan Blue Whales,12,698,Qingdao,Ningbo
+Guangdong Southern Tigers,13,0,Dongguan,Dongguan
+Zhejiang Golden Bulls,13,1121,Nanjing,Dongguan
+Qingdao Eagles,13,0,Qingdao,Qingdao
+Shenzhen Leopards,13,451,Tianjin,Qingdao
+Shanghai Sharks,13,0,Shanghai,Shanghai
+Zhejiang Guangsha Lions,13,165,Hangzhou,Shanghai
+Ningbo Rockets,13,0,Ningbo,Ningbo
+Beijing Ducks,13,638,Jinjiang,Ningbo
+Fujian Sturgeons,13,0,Jinjiang,Jinjiang
+Shandong Hi-Speed Kirin,13,772,Shanghai,Jinjiang
+Guangzhou Loong Lions,13,2281,Shenyang,Guangzhou
+Xinjiang Flying Tigers,13,51,Dongguan,Guangzhou
+Jilin Northeast Tigers,13,1573,Hangzhou,Changchun
+Jiangsu Dragons,13,959,Qingdao,Changchun
+Nanjing Monkey Kings,13,0,Nanjing,Nanjing
+Liaoning Flying Leopards,13,1159,Shenyang,Nanjing
+Shanxi Loongs,13,0,Taiyuan,Taiyuan
+Sichuan Blue Whales,13,1216,Ningbo,Taiyuan
+Beijing Royal Fighters,13,403,Taiyuan,Beijing
+Tianjin Pioneers,13,103,Tianjin,Beijing
+Zhejiang Guangsha Lions,14,165,Shanghai,Hangzhou
+Zhejiang Golden Bulls,14,1027,Dongguan,Hangzhou
+Ningbo Rockets,14,0,Ningbo,Ningbo
+Guangdong Southern Tigers,14,1086,Dongguan,Ningbo
+Jiangsu Dragons,14,1453,Changchun,Suzhou
+Shenzhen Leopards,14,531,Qingdao,Suzhou
+Sichuan Blue Whales,14,1124,Taiyuan,Chengdu
+Xinjiang Flying Tigers,14,1231,Guangzhou,Chengdu
+Guangzhou Loong Lions,14,0,Guangzhou,Guangzhou
+Shandong Hi-Speed Kirin,14,568,Jinjiang,Guangzhou
+Shanxi Loongs,14,0,Taiyuan,Taiyuan
+Jilin Northeast Tigers,14,1260,Changchun,Taiyuan
+Qingdao Eagles,14,0,Qingdao,Qingdao
+Beijing Ducks,14,698,Ningbo,Qingdao
+Beijing Royal Fighters,14,0,Beijing,Beijing
+Fujian Sturgeons,14,1693,Jinjiang,Beijing
+Tianjin Pioneers,14,103,Beijing,Tianjin
+Liaoning Flying Leopards,14,820,Nanjing,Tianjin
+Shanghai Sharks,14,0,Shanghai,Shanghai
+Nanjing Monkey Kings,14,270,Nanjing,Shanghai
+Qingdao Eagles,15,0,Qingdao,Qingdao
+Ningbo Rockets,15,698,Ningbo,Qingdao
+Beijing Ducks,15,551,Qingdao,Beijing
+Shanghai Sharks,15,1067,Shanghai,Beijing
+Zhejiang Guangsha Lions,15,0,Hangzhou,Hangzhou
+Guangdong Southern Tigers,15,141,Ningbo,Hangzhou
+Beijing Royal Fighters,15,0,Beijing,Beijing
+Shanxi Loongs,15,403,Taiyuan,Beijing
+Guangzhou Loong Lions,15,0,Guangzhou,Guangzhou
+Jiangsu Dragons,15,1161,Suzhou,Guangzhou
+Jilin Northeast Tigers,15,1260,Taiyuan,Changchun
+Nanjing Monkey Kings,15,1440,Shanghai,Changchun
+Shandong Hi-Speed Kirin,15,1546,Guangzhou,Jinan
+Liaoning Flying Leopards,15,301,Tianjin,Jinan
+Sichuan Blue Whales,15,0,Chengdu,Chengdu
+Shenzhen Leopards,15,1576,Suzhou,Chengdu
+Tianjin Pioneers,15,0,Tianjin,Tianjin
+Xinjiang Flying Tigers,15,1552,Chengdu,Tianjin
+Fujian Sturgeons,15,1693,Beijing,Jinjiang
+Zhejiang Golden Bulls,15,631,Hangzhou,Jinjiang
+Jilin Northeast Tigers,16,0,Changchun,Changchun
+Xinjiang Flying Tigers,16,828,Tianjin,Changchun
+Liaoning Flying Leopards,16,797,Jinan,Shenyang
+Ningbo Rockets,16,690,Qingdao,Shenyang
+Shandong Hi-Speed Kirin,16,0,Jinan,Jinan
+Beijing Royal Fighters,16,365,Beijing,Jinan
+Beijing Ducks,16,0,Beijing,Beijing
+Shenzhen Leopards,16,1525,Chengdu,Beijing
+Sichuan Blue Whales,16,0,Chengdu,Chengdu
+Nanjing Monkey Kings,16,2378,Changchun,Chengdu
+Zhejiang Golden Bulls,16,631,Jinjiang,Hangzhou
+Fujian Sturgeons,16,631,Jinjiang,Hangzhou
+Guangdong Southern Tigers,16,1027,Hangzhou,Dongguan
+Qingdao Eagles,16,1585,Qingdao,Dongguan
+Jiangsu Dragons,16,1161,Guangzhou,Suzhou
+Guangzhou Loong Lions,16,1161,Guangzhou,Suzhou
+Tianjin Pioneers,16,0,Tianjin,Tianjin
+Shanxi Loongs,16,103,Beijing,Tianjin
+Zhejiang Guangsha Lions,16,0,Hangzhou,Hangzhou
+Shanghai Sharks,16,1123,Beijing,Hangzhou
+Tianjin Pioneers,17,0,Tianjin,Tianjin
+Fujian Sturgeons,17,1040,Hangzhou,Tianjin
+Zhejiang Golden Bulls,17,0,Hangzhou,Hangzhou
+Guangzhou Loong Lions,17,121,Suzhou,Hangzhou
+Beijing Royal Fighters,17,365,Jinan,Beijing
+Jiangsu Dragons,17,1028,Suzhou,Beijing
+Guangdong Southern Tigers,17,0,Dongguan,Dongguan
+Shanghai Sharks,17,1027,Hangzhou,Dongguan
+Qingdao Eagles,17,1585,Dongguan,Qingdao
+Jilin Northeast Tigers,17,959,Changchun,Qingdao
+Liaoning Flying Leopards,17,0,Shenyang,Shenyang
+Xinjiang Flying Tigers,17,272,Changchun,Shenyang
+Nanjing Monkey Kings,17,1408,Chengdu,Nanjing
+Shenzhen Leopards,17,898,Beijing,Nanjing
+Beijing Ducks,17,0,Beijing,Beijing
+Shanxi Loongs,17,103,Tianjin,Beijing
+Sichuan Blue Whales,17,0,Chengdu,Chengdu
+Zhejiang Guangsha Lions,17,1542,Hangzhou,Chengdu
+Shandong Hi-Speed Kirin,17,0,Jinan,Jinan
+Ningbo Rockets,17,797,Shenyang,Jinan
+Jiangsu Dragons,18,1028,Beijing,Suzhou
+Shandong Hi-Speed Kirin,18,681,Jinan,Suzhou
+Sichuan Blue Whales,18,0,Chengdu,Chengdu
+Jilin Northeast Tigers,18,1632,Qingdao,Chengdu
+Zhejiang Guangsha Lions,18,1542,Chengdu,Hangzhou
+Guangzhou Loong Lions,18,0,Hangzhou,Hangzhou
+Qingdao Eagles,18,0,Qingdao,Qingdao
+Zhejiang Golden Bulls,18,644,Hangzhou,Qingdao
+Liaoning Flying Leopards,18,0,Shenyang,Shenyang
+Shenzhen Leopards,18,1159,Nanjing,Shenyang
+Shanghai Sharks,18,1190,Dongguan,Shanghai
+Xinjiang Flying Tigers,18,1189,Shenyang,Shanghai
+Shanxi Loongs,18,403,Beijing,Taiyuan
+Fujian Sturgeons,18,449,Tianjin,Taiyuan
+Beijing Ducks,18,0,Beijing,Beijing
+Ningbo Rockets,18,365,Jinan,Beijing
+Beijing Royal Fighters,18,0,Beijing,Beijing
+Guangdong Southern Tigers,18,1894,Dongguan,Beijing
+Nanjing Monkey Kings,18,0,Nanjing,Nanjing
+Tianjin Pioneers,18,820,Tianjin,Nanjing
+Beijing Royal Fighters,19,0,Beijing,Beijing
+Jilin Northeast Tigers,19,1525,Chengdu,Beijing
+Guangdong Southern Tigers,19,1894,Beijing,Dongguan
+Tianjin Pioneers,19,1121,Nanjing,Dongguan
+Shanxi Loongs,19,0,Taiyuan,Taiyuan
+Beijing Ducks,19,403,Beijing,Taiyuan
+Nanjing Monkey Kings,19,0,Nanjing,Nanjing
+Xinjiang Flying Tigers,19,270,Shanghai,Nanjing
+Qingdao Eagles,19,0,Qingdao,Qingdao
+Zhejiang Guangsha Lions,19,644,Hangzhou,Qingdao
+Shanghai Sharks,19,0,Shanghai,Shanghai
+Guangzhou Loong Lions,19,165,Hangzhou,Shanghai
+Sichuan Blue Whales,19,0,Chengdu,Chengdu
+Liaoning Flying Leopards,19,2132,Shenyang,Chengdu
+Fujian Sturgeons,19,1562,Taiyuan,Jinjiang
+Shenzhen Leopards,19,1946,Shenyang,Jinjiang
+Jiangsu Dragons,19,0,Suzhou,Suzhou
+Zhejiang Golden Bulls,19,531,Qingdao,Suzhou
+Ningbo Rockets,19,1210,Beijing,Ningbo
+Shandong Hi-Speed Kirin,19,184,Suzhou,Ningbo
+Beijing Ducks,20,403,Taiyuan,Beijing
+Beijing Royal Fighters,20,0,Beijing,Beijing
+Qingdao Eagles,20,0,Qingdao,Qingdao
+Guangzhou Loong Lions,20,547,Shanghai,Qingdao
+Shandong Hi-Speed Kirin,20,864,Ningbo,Jinan
+Zhejiang Guangsha Lions,20,310,Qingdao,Jinan
+Shanxi Loongs,20,0,Taiyuan,Taiyuan
+Guangdong Southern Tigers,20,1655,Dongguan,Taiyuan
+Sichuan Blue Whales,20,0,Chengdu,Chengdu
+Fujian Sturgeons,20,1563,Jinjiang,Chengdu
+Shanghai Sharks,20,0,Shanghai,Shanghai
+Zhejiang Golden Bulls,20,85,Suzhou,Shanghai
+Liaoning Flying Leopards,20,2132,Chengdu,Shenyang
+Xinjiang Flying Tigers,20,1159,Nanjing,Shenyang
+Nanjing Monkey Kings,20,0,Nanjing,Nanjing
+Shenzhen Leopards,20,810,Jinjiang,Nanjing
+Jilin Northeast Tigers,20,856,Beijing,Changchun
+Tianjin Pioneers,20,2544,Dongguan,Changchun
+Jiangsu Dragons,20,0,Suzhou,Suzhou
+Ningbo Rockets,20,184,Ningbo,Suzhou
+Shenzhen Leopards,21,1157,Nanjing,Shenzhen
+Liaoning Flying Leopards,21,2313,Shenyang,Shenzhen
+Beijing Royal Fighters,21,0,Beijing,Beijing
+Shanghai Sharks,21,1067,Shanghai,Beijing
+Jiangsu Dragons,21,0,Suzhou,Suzhou
+Qingdao Eagles,21,531,Qingdao,Suzhou
+Beijing Ducks,21,0,Beijing,Beijing
+Zhejiang Guangsha Lions,21,365,Jinan,Beijing
+Tianjin Pioneers,21,828,Changchun,Tianjin
+Guangdong Southern Tigers,21,449,Taiyuan,Tianjin
+Zhejiang Golden Bulls,21,165,Shanghai,Hangzhou
+Nanjing Monkey Kings,21,237,Nanjing,Hangzhou
+Xinjiang Flying Tigers,21,2907,Shenyang,Urumqi
+Guangzhou Loong Lions,21,2902,Qingdao,Urumqi
+Jilin Northeast Tigers,21,0,Changchun,Changchun
+Fujian Sturgeons,21,2378,Chengdu,Changchun
+Sichuan Blue Whales,21,0,Chengdu,Chengdu
+Ningbo Rockets,21,1576,Suzhou,Chengdu
+Shanxi Loongs,21,0,Taiyuan,Taiyuan
+Shandong Hi-Speed Kirin,21,416,Jinan,Taiyuan
+Shandong Hi-Speed Kirin,22,416,Taiyuan,Jinan
+Jiangsu Dragons,22,681,Suzhou,Jinan
+Shanghai Sharks,22,1067,Beijing,Shanghai
+Beijing Royal Fighters,22,1067,Beijing,Shanghai
+Shenzhen Leopards,22,0,Shenzhen,Shenzhen
+Liaoning Flying Leopards,22,0,Shenzhen,Shenzhen
+Beijing Ducks,22,0,Beijing,Beijing
+Sichuan Blue Whales,22,1525,Chengdu,Beijing
+Tianjin Pioneers,22,0,Tianjin,Tianjin
+Zhejiang Golden Bulls,22,1040,Hangzhou,Tianjin
+Zhejiang Guangsha Lions,22,1123,Beijing,Hangzhou
+Nanjing Monkey Kings,22,0,Hangzhou,Hangzhou
+Xinjiang Flying Tigers,22,0,Urumqi,Urumqi
+Guangdong Southern Tigers,22,2509,Tianjin,Urumqi
+Guangzhou Loong Lions,22,3284,Urumqi,Guangzhou
+Ningbo Rockets,22,1231,Chengdu,Guangzhou
+Jilin Northeast Tigers,22,0,Changchun,Changchun
+Shanxi Loongs,22,1260,Taiyuan,Changchun
+Fujian Sturgeons,22,2204,Changchun,Jinjiang
+Qingdao Eagles,22,752,Suzhou,Jinjiang
+Guangdong Southern Tigers,23,3325,Urumqi,Dongguan
+Liaoning Flying Leopards,23,62,Shenzhen,Dongguan
+Jilin Northeast Tigers,23,0,Changchun,Changchun
+Shanxi Loongs,23,0,Changchun,Changchun
+Xinjiang Flying Tigers,23,0,Urumqi,Urumqi
+Beijing Royal Fighters,23,3268,Shanghai,Urumqi
+Zhejiang Guangsha Lions,23,0,Hangzhou,Hangzhou
+Ningbo Rockets,23,1048,Guangzhou,Hangzhou
+Nanjing Monkey Kings,23,237,Hangzhou,Nanjing
+Fujian Sturgeons,23,810,Jinjiang,Nanjing
+Shandong Hi-Speed Kirin,23,0,Jinan,Jinan
+Zhejiang Golden Bulls,23,301,Tianjin,Jinan
+Shanghai Sharks,23,0,Shanghai,Shanghai
+Qingdao Eagles,23,772,Jinjiang,Shanghai
+Shenzhen Leopards,23,0,Shenzhen,Shenzhen
+Guangzhou Loong Lions,23,104,Guangzhou,Shenzhen
+Beijing Ducks,23,0,Beijing,Beijing
+Tianjin Pioneers,23,103,Tianjin,Beijing
+Sichuan Blue Whales,23,1525,Beijing,Chengdu
+Jiangsu Dragons,23,1373,Jinan,Chengdu
+Jilin Northeast Tigers,24,0,Changchun,Changchun
+Beijing Royal Fighters,24,2998,Urumqi,Changchun
+Shenzhen Leopards,24,0,Shenzhen,Shenzhen
+Sichuan Blue Whales,24,1335,Chengdu,Shenzhen
+Shanghai Sharks,24,0,Shanghai,Shanghai
+Jiangsu Dragons,24,1661,Chengdu,Shanghai
+Zhejiang Guangsha Lions,24,0,Hangzhou,Hangzhou
+Liaoning Flying Leopards,24,1027,Dongguan,Hangzhou
+Guangdong Southern Tigers,24,0,Dongguan,Dongguan
+Shandong Hi-Speed Kirin,24,1547,Jinan,Dongguan
+Qingdao Eagles,24,547,Shanghai,Qingdao
+Shanxi Loongs,24,959,Changchun,Qingdao
+Xinjiang Flying Tigers,24,0,Urumqi,Urumqi
+Beijing Ducks,24,2411,Beijing,Urumqi
+Guangzhou Loong Lions,24,104,Shenzhen,Guangzhou
+Fujian Sturgeons,24,1132,Nanjing,Guangzhou
+Tianjin Pioneers,24,103,Beijing,Tianjin
+Nanjing Monkey Kings,24,820,Nanjing,Tianjin
+Zhejiang Golden Bulls,24,767,Jinan,Hangzhou
+Ningbo Rockets,24,0,Hangzhou,Hangzhou
+Zhejiang Guangsha Lions,25,0,Hangzhou,Hangzhou
+Beijing Royal Fighters,25,1573,Changchun,Hangzhou
+Shenzhen Leopards,25,0,Shenzhen,Shenzhen
+Shandong Hi-Speed Kirin,25,62,Dongguan,Shenzhen
+Xinjiang Flying Tigers,25,0,Urumqi,Urumqi
+Nanjing Monkey Kings,25,2509,Tianjin,Urumqi
+Ningbo Rockets,25,141,Hangzhou,Ningbo
+Jilin Northeast Tigers,25,1587,Changchun,Ningbo
+Guangzhou Loong Lions,25,0,Guangzhou,Guangzhou
+Fujian Sturgeons,25,0,Guangzhou,Guangzhou
+Jiangsu Dragons,25,85,Shanghai,Suzhou
+Sichuan Blue Whales,25,1168,Shenzhen,Suzhou
+Shanghai Sharks,25,0,Shanghai,Shanghai
+Liaoning Flying Leopards,25,165,Hangzhou,Shanghai
+Zhejiang Golden Bulls,25,0,Hangzhou,Hangzhou
+Tianjin Pioneers,25,1040,Tianjin,Hangzhou
+Guangdong Southern Tigers,25,0,Dongguan,Dongguan
+Shanxi Loongs,25,1585,Qingdao,Dongguan
+Beijing Ducks,25,2411,Urumqi,Beijing
+Qingdao Eagles,25,551,Qingdao,Beijing
+Guangdong Southern Tigers,26,0,Dongguan,Dongguan
+Beijing Ducks,26,1894,Beijing,Dongguan
+Jiangsu Dragons,26,0,Suzhou,Suzhou
+Jilin Northeast Tigers,26,184,Ningbo,Suzhou
+Guangzhou Loong Lions,26,0,Guangzhou,Guangzhou
+Liaoning Flying Leopards,26,1212,Shanghai,Guangzhou
+Qingdao Eagles,26,551,Beijing,Qingdao
+Zhejiang Golden Bulls,26,644,Hangzhou,Qingdao
+Xinjiang Flying Tigers,26,0,Urumqi,Urumqi
+Nanjing Monkey Kings,26,0,Urumqi,Urumqi
+Ningbo Rockets,26,0,Ningbo,Ningbo
+Beijing Royal Fighters,26,141,Hangzhou,Ningbo
+Zhejiang Guangsha Lions,26,0,Hangzhou,Hangzhou
+Sichuan Blue Whales,26,121,Suzhou,Hangzhou
+Shenzhen Leopards,26,0,Shenzhen,Shenzhen
+Fujian Sturgeons,26,104,Guangzhou,Shenzhen
+Shandong Hi-Speed Kirin,26,1594,Shenzhen,Jinan
+Shanxi Loongs,26,1547,Dongguan,Jinan
+Shanghai Sharks,26,0,Shanghai,Shanghai
+Tianjin Pioneers,26,165,Hangzhou,Shanghai
+Liaoning Flying Leopards,27,2281,Guangzhou,Shenyang
+Shanxi Loongs,27,797,Jinan,Shenyang
+Shenzhen Leopards,27,0,Shenzhen,Shenzhen
+Guangdong Southern Tigers,27,62,Dongguan,Shenzhen
+Xinjiang Flying Tigers,27,0,Urumqi,Urumqi
+Jilin Northeast Tigers,27,3194,Suzhou,Urumqi
+Fujian Sturgeons,27,521,Shenzhen,Jinjiang
+Ningbo Rockets,27,638,Ningbo,Jinjiang
+Guangzhou Loong Lions,27,0,Guangzhou,Guangzhou
+Beijing Ducks,27,51,Dongguan,Guangzhou
+Shandong Hi-Speed Kirin,27,0,Jinan,Jinan
+Qingdao Eagles,27,310,Qingdao,Jinan
+Zhejiang Golden Bulls,27,644,Qingdao,Hangzhou
+Zhejiang Guangsha Lions,27,0,Hangzhou,Hangzhou
+Nanjing Monkey Kings,27,3007,Urumqi,Nanjing
+Jiangsu Dragons,27,189,Suzhou,Nanjing
+Shanghai Sharks,27,0,Shanghai,Shanghai
+Sichuan Blue Whales,27,165,Hangzhou,Shanghai
+Tianjin Pioneers,27,976,Shanghai,Tianjin
+Beijing Royal Fighters,27,1121,Ningbo,Tianjin
+Beijing Royal Fighters,28,103,Tianjin,Beijing
+Sichuan Blue Whales,28,1067,Shanghai,Beijing
+Nanjing Monkey Kings,28,0,Nanjing,Nanjing
+Zhejiang Guangsha Lions,28,237,Hangzhou,Nanjing
+Shenzhen Leopards,28,0,Shenzhen,Shenzhen
+Ningbo Rockets,28,521,Jinjiang,Shenzhen
+Tianjin Pioneers,28,0,Tianjin,Tianjin
+Qingdao Eagles,28,301,Jinan,Tianjin
+Xinjiang Flying Tigers,28,0,Urumqi,Urumqi
+Shanghai Sharks,28,3268,Shanghai,Urumqi
+Jiangsu Dragons,28,189,Nanjing,Suzhou
+Shanxi Loongs,28,1195,Shenyang,Suzhou
+Jilin Northeast Tigers,28,2998,Urumqi,Changchun
+Guangzhou Loong Lions,28,2551,Guangzhou,Changchun
+Liaoning Flying Leopards,28,0,Shenyang,Shenyang
+Zhejiang Golden Bulls,28,1315,Hangzhou,Shenyang
+Fujian Sturgeons,28,0,Jinjiang,Jinjiang
+Guangdong Southern Tigers,28,521,Shenzhen,Jinjiang
+Beijing Ducks,28,1889,Guangzhou,Beijing
+Shandong Hi-Speed Kirin,28,365,Jinan,Beijing
+Guangdong Southern Tigers,29,526,Jinjiang,Dongguan
+Ningbo Rockets,29,62,Shenzhen,Dongguan
+Beijing Ducks,29,0,Beijing,Beijing
+Qingdao Eagles,29,103,Tianjin,Beijing
+Beijing Royal Fighters,29,0,Beijing,Beijing
+Shandong Hi-Speed Kirin,29,0,Beijing,Beijing
+Guangzhou Loong Lions,29,2551,Changchun,Guangzhou
+Shanghai Sharks,29,3284,Urumqi,Guangzhou
+Liaoning Flying Leopards,29,0,Shenyang,Shenyang
+Nanjing Monkey Kings,29,1159,Nanjing,Shenyang
+Shanxi Loongs,29,1036,Suzhou,Taiyuan
+Zhejiang Guangsha Lions,29,861,Nanjing,Taiyuan
+Tianjin Pioneers,29,0,Tianjin,Tianjin
+Sichuan Blue Whales,29,103,Beijing,Tianjin
+Xinjiang Flying Tigers,29,0,Urumqi,Urumqi
+Shenzhen Leopards,29,3386,Shenzhen,Urumqi
+Jiangsu Dragons,29,0,Suzhou,Suzhou
+Fujian Sturgeons,29,752,Jinjiang,Suzhou
+Jilin Northeast Tigers,29,0,Changchun,Changchun
+Zhejiang Golden Bulls,29,272,Shenyang,Changchun
+Zhejiang Golden Bulls,30,1573,Changchun,Hangzhou
+Fujian Sturgeons,30,121,Suzhou,Hangzhou
+Liaoning Flying Leopards,30,0,Shenyang,Shenyang
+Sichuan Blue Whales,30,581,Tianjin,Shenyang
+Shanghai Sharks,30,1212,Guangzhou,Shanghai
+Jilin Northeast Tigers,30,1440,Changchun,Shanghai
+Guangzhou Loong Lions,30,0,Guangzhou,Guangzhou
+Zhejiang Guangsha Lions,30,1641,Taiyuan,Guangzhou
+Jiangsu Dragons,30,0,Suzhou,Suzhou
+Beijing Royal Fighters,30,1028,Beijing,Suzhou
+Shanxi Loongs,30,0,Taiyuan,Taiyuan
+Qingdao Eagles,30,403,Beijing,Taiyuan
+Shandong Hi-Speed Kirin,30,365,Beijing,Jinan
+Guangdong Southern Tigers,30,1547,Dongguan,Jinan
+Beijing Ducks,30,0,Beijing,Beijing
+Nanjing Monkey Kings,30,627,Shenyang,Beijing
+Xinjiang Flying Tigers,30,0,Urumqi,Urumqi
+Shenzhen Leopards,30,0,Urumqi,Urumqi
+Ningbo Rockets,30,1086,Dongguan,Ningbo
+Tianjin Pioneers,30,1121,Tianjin,Ningbo
+Jilin Northeast Tigers,31,1440,Shanghai,Changchun
+Sichuan Blue Whales,31,272,Shenyang,Changchun
+Liaoning Flying Leopards,31,0,Shenyang,Shenyang
+Fujian Sturgeons,31,1315,Hangzhou,Shenyang
+Ningbo Rockets,31,0,Ningbo,Ningbo
+Shanghai Sharks,31,152,Shanghai,Ningbo
+Guangzhou Loong Lions,31,0,Guangzhou,Guangzhou
+Beijing Ducks,31,1889,Beijing,Guangzhou
+Nanjing Monkey Kings,31,898,Beijing,Nanjing
+Beijing Royal Fighters,31,189,Suzhou,Nanjing
+Qingdao Eagles,31,724,Taiyuan,Qingdao
+Guangdong Southern Tigers,31,310,Jinan,Qingdao
+Zhejiang Guangsha Lions,31,1048,Guangzhou,Hangzhou
+Shandong Hi-Speed Kirin,31,767,Jinan,Hangzhou
+Xinjiang Flying Tigers,31,0,Urumqi,Urumqi
+Tianjin Pioneers,31,3362,Ningbo,Urumqi
+Shanxi Loongs,31,0,Taiyuan,Taiyuan
+Shenzhen Leopards,31,2189,Urumqi,Taiyuan
+Zhejiang Golden Bulls,31,0,Hangzhou,Hangzhou
+Jiangsu Dragons,31,121,Suzhou,Hangzhou
+Fujian Sturgeons,32,1946,Shenyang,Jinjiang
+Tianjin Pioneers,32,3509,Urumqi,Jinjiang
+Guangzhou Loong Lions,32,0,Guangzhou,Guangzhou
+Sichuan Blue Whales,32,2551,Changchun,Guangzhou
+Zhejiang Golden Bulls,32,0,Hangzhou,Hangzhou
+Beijing Royal Fighters,32,237,Nanjing,Hangzhou
+Jilin Northeast Tigers,32,0,Changchun,Changchun
+Qingdao Eagles,32,959,Qingdao,Changchun
+Liaoning Flying Leopards,32,0,Shenyang,Shenyang
+Guangdong Southern Tigers,32,690,Qingdao,Shenyang
+Shenzhen Leopards,32,1710,Taiyuan,Shenzhen
+Beijing Ducks,32,104,Guangzhou,Shenzhen
+Ningbo Rockets,32,0,Ningbo,Ningbo
+Zhejiang Guangsha Lions,32,141,Hangzhou,Ningbo
+Xinjiang Flying Tigers,32,0,Urumqi,Urumqi
+Jiangsu Dragons,32,3228,Hangzhou,Urumqi
+Nanjing Monkey Kings,32,0,Nanjing,Nanjing
+Shandong Hi-Speed Kirin,32,237,Hangzhou,Nanjing
+Shanxi Loongs,32,0,Taiyuan,Taiyuan
+Shanghai Sharks,32,1216,Ningbo,Taiyuan
+Guangzhou Loong Lions,33,0,Guangzhou,Guangzhou
+Tianjin Pioneers,33,568,Jinjiang,Guangzhou
+Zhejiang Golden Bulls,33,0,Hangzhou,Hangzhou
+Sichuan Blue Whales,33,1048,Guangzhou,Hangzhou
+Liaoning Flying Leopards,33,0,Shenyang,Shenyang
+Qingdao Eagles,33,272,Changchun,Shenyang
+Nanjing Monkey Kings,33,0,Nanjing,Nanjing
+Guangdong Southern Tigers,33,1159,Shenyang,Nanjing
+Shenzhen Leopards,33,0,Shenzhen,Shenzhen
+Shanghai Sharks,33,1710,Taiyuan,Shenzhen
+Xinjiang Flying Tigers,33,0,Urumqi,Urumqi
+Zhejiang Guangsha Lions,33,3362,Ningbo,Urumqi
+Jilin Northeast Tigers,33,0,Changchun,Changchun
+Shandong Hi-Speed Kirin,33,1426,Nanjing,Changchun
+Fujian Sturgeons,33,0,Jinjiang,Jinjiang
+Beijing Royal Fighters,33,631,Hangzhou,Jinjiang
+Jiangsu Dragons,33,3194,Urumqi,Suzhou
+Beijing Ducks,33,1168,Shenzhen,Suzhou
+Shanxi Loongs,33,0,Taiyuan,Taiyuan
+Ningbo Rockets,33,1216,Ningbo,Taiyuan
+Jilin Northeast Tigers,34,0,Changchun,Changchun
+Guangdong Southern Tigers,34,1426,Nanjing,Changchun
+Jiangsu Dragons,34,0,Suzhou,Suzhou
+Tianjin Pioneers,34,1161,Guangzhou,Suzhou
+Shenzhen Leopards,34,0,Shenzhen,Shenzhen
+Shanxi Loongs,34,1710,Taiyuan,Shenzhen
+Xinjiang Flying Tigers,34,0,Urumqi,Urumqi
+Sichuan Blue Whales,34,3228,Hangzhou,Urumqi
+Ningbo Rockets,34,1216,Taiyuan,Ningbo
+Qingdao Eagles,34,1338,Shenyang,Ningbo
+Guangzhou Loong Lions,34,0,Guangzhou,Guangzhou
+Nanjing Monkey Kings,34,1132,Nanjing,Guangzhou
+Liaoning Flying Leopards,34,0,Shenyang,Shenyang
+Shandong Hi-Speed Kirin,34,272,Changchun,Shenyang
+Zhejiang Golden Bulls,34,0,Hangzhou,Hangzhou
+Beijing Ducks,34,121,Suzhou,Hangzhou
+Fujian Sturgeons,34,0,Jinjiang,Jinjiang
+Shanghai Sharks,34,521,Shenzhen,Jinjiang
+Zhejiang Guangsha Lions,34,3228,Urumqi,Hangzhou
+Beijing Royal Fighters,34,631,Jinjiang,Hangzhou
+Shenzhen Leopards,35,0,Shenzhen,Shenzhen
+Tianjin Pioneers,35,1168,Suzhou,Shenzhen
+Ningbo Rockets,35,0,Ningbo,Ningbo
+Xinjiang Flying Tigers,35,3362,Urumqi,Ningbo
+Beijing Royal Fighters,35,1123,Hangzhou,Beijing
+Zhejiang Golden Bulls,35,1123,Hangzhou,Beijing
+Fujian Sturgeons,35,0,Jinjiang,Jinjiang
+Qingdao Eagles,35,638,Ningbo,Jinjiang
+Guangzhou Loong Lions,35,0,Guangzhou,Guangzhou
+Shanxi Loongs,35,104,Shenzhen,Guangzhou
+Jilin Northeast Tigers,35,0,Changchun,Changchun
+Beijing Ducks,35,1573,Hangzhou,Changchun
+Liaoning Flying Leopards,35,0,Shenyang,Shenyang
+Nanjing Monkey Kings,35,2281,Guangzhou,Shenyang
+Shanghai Sharks,35,772,Jinjiang,Shanghai
+Guangdong Southern Tigers,35,1440,Changchun,Shanghai
+Sichuan Blue Whales,35,2065,Urumqi,Chengdu
+Shandong Hi-Speed Kirin,35,2132,Shenyang,Chengdu
+Zhejiang Guangsha Lions,35,0,Hangzhou,Hangzhou
+Jiangsu Dragons,35,121,Suzhou,Hangzhou
+Shenzhen Leopards,36,0,Shenzhen,Shenzhen
+Jiangsu Dragons,36,1052,Hangzhou,Shenzhen
+Ningbo Rockets,36,0,Ningbo,Ningbo
+Fujian Sturgeons,36,638,Jinjiang,Ningbo
+Jilin Northeast Tigers,36,0,Changchun,Changchun
+Liaoning Flying Leopards,36,272,Shenyang,Changchun
+Beijing Ducks,36,856,Changchun,Beijing
+Zhejiang Golden Bulls,36,0,Beijing,Beijing
+Xinjiang Flying Tigers,36,3362,Ningbo,Urumqi
+Shandong Hi-Speed Kirin,36,2065,Chengdu,Urumqi
+Beijing Royal Fighters,36,0,Beijing,Beijing
+Nanjing Monkey Kings,36,627,Shenyang,Beijing
+Guangzhou Loong Lions,36,0,Guangzhou,Guangzhou
+Qingdao Eagles,36,568,Jinjiang,Guangzhou
+Zhejiang Guangsha Lions,36,0,Hangzhou,Hangzhou
+Tianjin Pioneers,36,1052,Shenzhen,Hangzhou
+Sichuan Blue Whales,36,0,Chengdu,Chengdu
+Guangdong Southern Tigers,36,1661,Shanghai,Chengdu
+Shanghai Sharks,36,0,Shanghai,Shanghai
+Shanxi Loongs,36,1212,Guangzhou,Shanghai
+Zhejiang Guangsha Lions,37,0,Hangzhou,Hangzhou
+Shanxi Loongs,37,165,Shanghai,Hangzhou
+Beijing Royal Fighters,37,0,Beijing,Beijing
+Shandong Hi-Speed Kirin,37,2411,Urumqi,Beijing
+Shenzhen Leopards,37,0,Shenzhen,Shenzhen
+Qingdao Eagles,37,104,Guangzhou,Shenzhen
+Sichuan Blue Whales,37,0,Chengdu,Chengdu
+Guangzhou Loong Lions,37,1231,Guangzhou,Chengdu
+Xinjiang Flying Tigers,37,0,Urumqi,Urumqi
+Fujian Sturgeons,37,3362,Ningbo,Urumqi
+Guangdong Southern Tigers,37,1275,Chengdu,Dongguan
+Nanjing Monkey Kings,37,1894,Beijing,Dongguan
+Shanghai Sharks,37,0,Shanghai,Shanghai
+Jilin Northeast Tigers,37,1440,Changchun,Shanghai
+Liaoning Flying Leopards,37,272,Changchun,Shenyang
+Tianjin Pioneers,37,1315,Hangzhou,Shenyang
+Ningbo Rockets,37,0,Ningbo,Ningbo
+Zhejiang Golden Bulls,37,1210,Beijing,Ningbo
+Beijing Ducks,37,0,Beijing,Beijing
+Jiangsu Dragons,37,1943,Shenzhen,Beijing
+Jilin Northeast Tigers,38,1440,Shanghai,Changchun
+Ningbo Rockets,38,1587,Ningbo,Changchun
+Liaoning Flying Leopards,38,0,Shenyang,Shenyang
+Beijing Royal Fighters,38,627,Beijing,Shenyang
+Shandong Hi-Speed Kirin,38,365,Beijing,Jinan
+Shenzhen Leopards,38,1594,Shenzhen,Jinan
+Sichuan Blue Whales,38,0,Chengdu,Chengdu
+Beijing Ducks,38,1525,Beijing,Chengdu
+Guangzhou Loong Lions,38,1231,Chengdu,Guangzhou
+Guangdong Southern Tigers,38,51,Dongguan,Guangzhou
+Nanjing Monkey Kings,38,1121,Dongguan,Nanjing
+Shanxi Loongs,38,237,Hangzhou,Nanjing
+Tianjin Pioneers,38,581,Shenyang,Tianjin
+Jiangsu Dragons,38,103,Beijing,Tianjin
+Zhejiang Guangsha Lions,38,0,Hangzhou,Hangzhou
+Fujian Sturgeons,38,3228,Urumqi,Hangzhou
+Xinjiang Flying Tigers,38,0,Urumqi,Urumqi
+Qingdao Eagles,38,3386,Shenzhen,Urumqi
+Zhejiang Golden Bulls,38,141,Ningbo,Hangzhou
+Shanghai Sharks,38,165,Shanghai,Hangzhou
+Jilin Northeast Tigers,39,0,Changchun,Changchun
+Shenzhen Leopards,39,1064,Jinan,Changchun
+Shanxi Loongs,39,861,Nanjing,Taiyuan
+Shanghai Sharks,39,1097,Hangzhou,Taiyuan
+Fujian Sturgeons,39,631,Hangzhou,Jinjiang
+Liaoning Flying Leopards,39,1946,Shenyang,Jinjiang
+Nanjing Monkey Kings,39,0,Nanjing,Nanjing
+Beijing Ducks,39,1408,Chengdu,Nanjing
+Shandong Hi-Speed Kirin,39,0,Jinan,Jinan
+Tianjin Pioneers,39,301,Tianjin,Jinan
+Zhejiang Golden Bulls,39,0,Hangzhou,Hangzhou
+Guangzhou Loong Lions,39,1048,Guangzhou,Hangzhou
+Xinjiang Flying Tigers,39,0,Urumqi,Urumqi
+Ningbo Rockets,39,2998,Changchun,Urumqi
+Guangdong Southern Tigers,39,51,Guangzhou,Dongguan
+Sichuan Blue Whales,39,1275,Chengdu,Dongguan
+Beijing Royal Fighters,39,627,Shenyang,Beijing
+Qingdao Eagles,39,2411,Urumqi,Beijing
+Jiangsu Dragons,39,941,Tianjin,Suzhou
+Zhejiang Guangsha Lions,39,121,Hangzhou,Suzhou
+Jilin Northeast Tigers,40,0,Changchun,Changchun
+Sichuan Blue Whales,40,2544,Dongguan,Changchun
+Beijing Ducks,40,898,Nanjing,Beijing
+Guangzhou Loong Lions,40,1123,Hangzhou,Beijing
+Zhejiang Golden Bulls,40,0,Hangzhou,Hangzhou
+Liaoning Flying Leopards,40,631,Jinjiang,Hangzhou
+Beijing Royal Fighters,40,0,Beijing,Beijing
+Shenzhen Leopards,40,856,Changchun,Beijing
+Guangdong Southern Tigers,40,0,Dongguan,Dongguan
+Zhejiang Guangsha Lions,40,1141,Suzhou,Dongguan
+Nanjing Monkey Kings,40,0,Nanjing,Nanjing
+Jiangsu Dragons,40,189,Suzhou,Nanjing
+Xinjiang Flying Tigers,40,0,Urumqi,Urumqi
+Shanxi Loongs,40,2189,Taiyuan,Urumqi
+Shandong Hi-Speed Kirin,40,0,Jinan,Jinan
+Ningbo Rockets,40,2603,Urumqi,Jinan
+Qingdao Eagles,40,551,Beijing,Qingdao
+Fujian Sturgeons,40,1267,Jinjiang,Qingdao
+Tianjin Pioneers,40,301,Jinan,Tianjin
+Shanghai Sharks,40,449,Taiyuan,Tianjin
+Guangdong Southern Tigers,41,0,Dongguan,Dongguan
+Jiangsu Dragons,41,1121,Nanjing,Dongguan
+Jilin Northeast Tigers,41,0,Changchun,Changchun
+Shanghai Sharks,41,828,Tianjin,Changchun
+Beijing Royal Fighters,41,0,Beijing,Beijing
+Guangzhou Loong Lions,41,0,Beijing,Beijing
+Qingdao Eagles,41,0,Qingdao,Qingdao
+Tianjin Pioneers,41,451,Tianjin,Qingdao
+Shandong Hi-Speed Kirin,41,0,Jinan,Jinan
+Fujian Sturgeons,41,310,Qingdao,Jinan
+Sichuan Blue Whales,41,2378,Changchun,Chengdu
+Shanxi Loongs,41,2065,Urumqi,Chengdu
+Nanjing Monkey Kings,41,0,Nanjing,Nanjing
+Ningbo Rockets,41,536,Jinan,Nanjing
+Shenzhen Leopards,41,1943,Beijing,Shenzhen
+Zhejiang Guangsha Lions,41,62,Dongguan,Shenzhen
+Xinjiang Flying Tigers,41,0,Urumqi,Urumqi
+Liaoning Flying Leopards,41,3228,Hangzhou,Urumqi
+Beijing Ducks,41,0,Beijing,Beijing
+Zhejiang Golden Bulls,41,1123,Hangzhou,Beijing
+Jilin Northeast Tigers,42,0,Changchun,Changchun
+Zhejiang Guangsha Lions,42,2582,Shenzhen,Changchun
+Beijing Ducks,42,0,Beijing,Beijing
+Fujian Sturgeons,42,365,Jinan,Beijing
+Liaoning Flying Leopards,42,2907,Urumqi,Shenyang
+Jiangsu Dragons,42,2274,Dongguan,Shenyang
+Qingdao Eagles,42,0,Qingdao,Qingdao
+Guangzhou Loong Lions,42,551,Beijing,Qingdao
+Sichuan Blue Whales,42,0,Chengdu,Chengdu
+Shanxi Loongs,42,0,Chengdu,Chengdu
+Guangdong Southern Tigers,42,0,Dongguan,Dongguan
+Shanghai Sharks,42,2544,Changchun,Dongguan
+Xinjiang Flying Tigers,42,0,Urumqi,Urumqi
+Zhejiang Golden Bulls,42,2411,Beijing,Urumqi
+Beijing Royal Fighters,42,0,Beijing,Beijing
+Ningbo Rockets,42,898,Nanjing,Beijing
+Shandong Hi-Speed Kirin,42,0,Jinan,Jinan
+Tianjin Pioneers,42,310,Qingdao,Jinan
+Shenzhen Leopards,42,0,Shenzhen,Shenzhen
+Nanjing Monkey Kings,42,1157,Nanjing,Shenzhen

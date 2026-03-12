@@ -1,0 +1,421 @@
+Round,Date,Time,Home Team (CN),Home Team (EN),Away Team (CN),Away Team (EN),Home Score,Away Score,Status
+1,2025-12-12,19:35,广厦,Zhejiang Guangsha Lions,山西,Shanxi Loongs,88,74,Played
+1,2025-12-13,19:35,北控,Beijing Royal Fighters,山东,Shandong Hi-Speed Kirin,97,92,Played
+1,2025-12-13,19:35,江苏,Jiangsu Dragons,北京,Beijing Ducks,74,84,Played
+1,2025-12-13,19:35,深圳,Shenzhen Leopards,青岛,Qingdao Eagles,77,89,Played
+1,2025-12-13,19:35,四川,Sichuan Blue Whales,广州,Guangzhou Loong Lions,66,81,Played
+1,2025-12-13,19:35,天津,Tianjin Pioneers,辽宁,Liaoning Flying Leopards,68,80,Played
+1,2025-12-13,20:00,新疆,Xinjiang Flying Tigers,福建,Fujian Sturgeons,99,91,Played
+1,2025-12-14,19:35,浙江,Zhejiang Golden Bulls,宁波,Ningbo Rockets,101,106,Played
+1,2025-12-14,19:35,广东,Guangdong Southern Tigers,同曦,Nanjing Monkey Kings,107,102,Played
+1,2025-12-14,19:35,上海,Shanghai Sharks,吉林,Jilin Northeast Tigers,95,85,Played
+2,2025-12-15,19:35,辽宁,Liaoning Flying Leopards,广厦,Zhejiang Guangsha Lions,95,79,Played
+2,2025-12-15,19:35,青岛,Qingdao Eagles,四川,Sichuan Blue Whales,96,64,Played
+2,2025-12-15,19:35,北京,Beijing Ducks,新疆,Xinjiang Flying Tigers,111,84,Played
+2,2025-12-16,19:35,福建,Fujian Sturgeons,江苏,Jiangsu Dragons,104,80,Played
+2,2025-12-16,19:35,北控,Beijing Royal Fighters,天津,Tianjin Pioneers,92,89,Played
+2,2025-12-16,19:35,同曦,Nanjing Monkey Kings,上海,Shanghai Sharks,105,97,Played
+2,2025-12-16,19:35,山西,Shanxi Loongs,宁波,Ningbo Rockets,95,87,Played
+2,2025-12-16,19:35,深圳,Shenzhen Leopards,吉林,Jilin Northeast Tigers,99,81,Played
+2,2025-12-16,19:35,浙江,Zhejiang Golden Bulls,广东,Guangdong Southern Tigers,98,101,Played
+3,2025-12-17,19:35,山东,Shandong Hi-Speed Kirin,四川,Sichuan Blue Whales,94,87,Played
+3,2025-12-17,19:35,北京,Beijing Ducks,辽宁,Liaoning Flying Leopards,94,81,Played
+3,2025-12-18,19:35,宁波,Ningbo Rockets,深圳,Shenzhen Leopards,81,72,Played
+3,2025-12-18,19:35,北控,Beijing Royal Fighters,新疆,Xinjiang Flying Tigers,95,105,Played
+3,2025-12-18,19:35,福建,Fujian Sturgeons,广厦,Zhejiang Guangsha Lions,80,98,Played
+3,2025-12-18,19:35,吉林,Jilin Northeast Tigers,天津,Tianjin Pioneers,90,80,Played
+3,2025-12-18,19:35,青岛,Qingdao Eagles,同曦,Nanjing Monkey Kings,99,88,Played
+3,2025-12-18,19:35,山西,Shanxi Loongs,浙江,Zhejiang Golden Bulls,102,91,Played
+3,2025-12-19,19:35,广东,Guangdong Southern Tigers,广州,Guangzhou Loong Lions,97,94,Played
+3,2025-12-19,19:35,江苏,Jiangsu Dragons,上海,Shanghai Sharks,89,101,Played
+4,2025-12-20,19:35,吉林,Jilin Northeast Tigers,新疆,Xinjiang Flying Tigers,92,86,Played
+4,2025-12-20,19:35,辽宁,Liaoning Flying Leopards,宁波,Ningbo Rockets,90,88,Played
+4,2025-12-20,19:35,山东,Shandong Hi-Speed Kirin,北控,Beijing Royal Fighters,98,88,Played
+4,2025-12-20,19:35,北京,Beijing Ducks,深圳,Shenzhen Leopards,104,88,Played
+4,2025-12-20,19:35,四川,Sichuan Blue Whales,同曦,Nanjing Monkey Kings,53,84,Played
+4,2025-12-20,19:35,浙江,Zhejiang Golden Bulls,福建,Fujian Sturgeons,88,79,Played
+4,2025-12-21,19:35,广东,Guangdong Southern Tigers,青岛,Qingdao Eagles,89,80,Played
+4,2025-12-21,19:35,江苏,Jiangsu Dragons,广州,Guangzhou Loong Lions,86,93,Played
+4,2025-12-21,19:35,天津,Tianjin Pioneers,山西,Shanxi Loongs,92,99,Played
+4,2025-12-21,19:35,广厦,Zhejiang Guangsha Lions,上海,Shanghai Sharks,97,90,Played
+5,2025-12-22,19:35,吉林,Jilin Northeast Tigers,宁波,Ningbo Rockets,82,77,Played
+5,2025-12-22,19:35,辽宁,Liaoning Flying Leopards,北控,Beijing Royal Fighters,98,86,Played
+5,2025-12-22,19:35,山东,Shandong Hi-Speed Kirin,深圳,Shenzhen Leopards,92,95,Played
+5,2025-12-22,19:35,四川,Sichuan Blue Whales,北京,Beijing Ducks,46,97,Played
+5,2025-12-23,19:35,广州,Guangzhou Loong Lions,广东,Guangdong Southern Tigers,85,93,Played
+5,2025-12-23,19:35,同曦,Nanjing Monkey Kings,山西,Shanxi Loongs,77,103,Played
+5,2025-12-23,19:35,上海,Shanghai Sharks,浙江,Zhejiang Golden Bulls,97,77,Played
+5,2025-12-23,19:35,天津,Tianjin Pioneers,江苏,Jiangsu Dragons,84,88,Played
+5,2025-12-23,19:35,广厦,Zhejiang Guangsha Lions,福建,Fujian Sturgeons,84,65,Played
+5,2025-12-24,19:35,新疆,Xinjiang Flying Tigers,青岛,Qingdao Eagles,79,97,Played
+6,2025-12-24,19:35,吉林,Jilin Northeast Tigers,北控,Beijing Royal Fighters,87,73,Played
+6,2025-12-24,19:35,深圳,Shenzhen Leopards,四川,Sichuan Blue Whales,96,87,Played
+6,2025-12-25,19:35,上海,Shanghai Sharks,江苏,Jiangsu Dragons,84,68,Played
+6,2025-12-25,19:35,广厦,Zhejiang Guangsha Lions,辽宁,Liaoning Flying Leopards,96,64,Played
+6,2025-12-26,19:35,宁波,Ningbo Rockets,浙江,Zhejiang Golden Bulls,88,79,Played
+6,2025-12-26,19:35,福建,Fujian Sturgeons,广州,Guangzhou Loong Lions,97,84,Played
+6,2025-12-26,19:35,广东,Guangdong Southern Tigers,山东,Shandong Hi-Speed Kirin,94,88,Played
+6,2025-12-26,19:35,同曦,Nanjing Monkey Kings,天津,Tianjin Pioneers,76,104,Played
+6,2025-12-26,19:35,青岛,Qingdao Eagles,山西,Shanxi Loongs,88,81,Played
+6,2025-12-26,20:00,新疆,Xinjiang Flying Tigers,北京,Beijing Ducks,85,89,Played
+7,2025-12-27,19:35,北控,Beijing Royal Fighters,辽宁,Liaoning Flying Leopards,81,77,Played
+7,2025-12-27,19:35,上海,Shanghai Sharks,四川,Sichuan Blue Whales,88,52,Played
+7,2025-12-27,19:35,广厦,Zhejiang Guangsha Lions,深圳,Shenzhen Leopards,110,80,Played
+7,2025-12-28,19:35,宁波,Ningbo Rockets,天津,Tianjin Pioneers,101,98,Played
+7,2025-12-28,19:35,福建,Fujian Sturgeons,北京,Beijing Ducks,70,96,Played
+7,2025-12-28,19:35,广州,Guangzhou Loong Lions,吉林,Jilin Northeast Tigers,87,74,Played
+7,2025-12-28,19:35,同曦,Nanjing Monkey Kings,江苏,Jiangsu Dragons,99,81,Played
+7,2025-12-28,19:35,青岛,Qingdao Eagles,山东,Shandong Hi-Speed Kirin,93,87,Played
+7,2025-12-28,19:35,山西,Shanxi Loongs,广东,Guangdong Southern Tigers,89,95,Played
+7,2025-12-28,19:35,浙江,Zhejiang Golden Bulls,新疆,Xinjiang Flying Tigers,95,77,Played
+8,2025-12-29,19:35,深圳,Shenzhen Leopards,辽宁,Liaoning Flying Leopards,93,90,Played
+8,2025-12-29,19:35,北控,Beijing Royal Fighters,上海,Shanghai Sharks,70,90,Played
+8,2025-12-30,19:35,宁波,Ningbo Rockets,四川,Sichuan Blue Whales,106,73,Played
+8,2025-12-30,19:35,福建,Fujian Sturgeons,吉林,Jilin Northeast Tigers,95,84,Played
+8,2025-12-30,19:35,江苏,Jiangsu Dragons,青岛,Qingdao Eagles,76,83,Played
+8,2025-12-30,19:35,山东,Shandong Hi-Speed Kirin,山西,Shanxi Loongs,88,78,Played
+8,2025-12-30,19:35,北京,Beijing Ducks,广厦,Zhejiang Guangsha Lions,85,91,Played
+8,2025-12-30,19:35,天津,Tianjin Pioneers,广东,Guangdong Southern Tigers,74,98,Played
+8,2025-12-30,19:35,浙江,Zhejiang Golden Bulls,同曦,Nanjing Monkey Kings,87,73,Played
+8,2025-12-30,20:00,新疆,Xinjiang Flying Tigers,广州,Guangzhou Loong Lions,94,76,Played
+9,2025-12-31,19:35,辽宁,Liaoning Flying Leopards,上海,Shanghai Sharks,65,91,Played
+9,2025-12-31,19:35,深圳,Shenzhen Leopards,北控,Beijing Royal Fighters,101,105,Played
+9,2026-01-01,19:35,北京,Beijing Ducks,广东,Guangdong Southern Tigers,105,74,Played
+9,2026-01-01,19:35,四川,Sichuan Blue Whales,福建,Fujian Sturgeons,88,104,Played
+9,2026-01-01,19:35,天津,Tianjin Pioneers,广厦,Zhejiang Guangsha Lions,68,102,Played
+9,2026-01-01,19:35,浙江,Zhejiang Golden Bulls,青岛,Qingdao Eagles,78,73,Played
+9,2026-01-01,19:35,江苏,Jiangsu Dragons,宁波,Ningbo Rockets,79,84,Played
+9,2026-01-02,19:35,同曦,Nanjing Monkey Kings,吉林,Jilin Northeast Tigers,104,82,Played
+9,2026-01-02,19:35,山东,Shandong Hi-Speed Kirin,新疆,Xinjiang Flying Tigers,100,85,Played
+9,2026-01-02,19:35,山西,Shanxi Loongs,广州,Guangzhou Loong Lions,70,74,Played
+10,2026-01-03,19:35,北控,Beijing Royal Fighters,广东,Guangdong Southern Tigers,89,93,Played
+10,2026-01-03,19:35,上海,Shanghai Sharks,宁波,Ningbo Rockets,95,90,Played
+10,2026-01-03,19:35,深圳,Shenzhen Leopards,浙江,Zhejiang Golden Bulls,92,82,Played
+10,2026-01-03,19:35,四川,Sichuan Blue Whales,青岛,Qingdao Eagles,97,109,Played
+10,2026-01-03,19:35,广厦,Zhejiang Guangsha Lions,北京,Beijing Ducks,77,74,Played
+10,2026-01-04,19:35,福建,Fujian Sturgeons,新疆,Xinjiang Flying Tigers,108,111,Played
+10,2026-01-04,19:35,辽宁,Liaoning Flying Leopards,吉林,Jilin Northeast Tigers,86,72,Played
+10,2026-01-04,19:35,同曦,Nanjing Monkey Kings,山东,Shandong Hi-Speed Kirin,94,107,Played
+10,2026-01-04,19:35,山西,Shanxi Loongs,江苏,Jiangsu Dragons,91,77,Played
+10,2026-01-04,19:35,天津,Tianjin Pioneers,广州,Guangzhou Loong Lions,106,108,Played
+11,2026-01-05,19:35,广东,Guangdong Southern Tigers,浙江,Zhejiang Golden Bulls,87,88,Played
+11,2026-01-05,19:35,青岛,Qingdao Eagles,深圳,Shenzhen Leopards,83,92,Played
+11,2026-01-05,20:00,上海,Shanghai Sharks,广厦,Zhejiang Guangsha Lions,99,77,Played
+11,2026-01-06,19:35,宁波,Ningbo Rockets,北京,Beijing Ducks,83,88,Played
+11,2026-01-06,19:35,福建,Fujian Sturgeons,山东,Shandong Hi-Speed Kirin,99,105,Played
+11,2026-01-06,19:35,广州,Guangzhou Loong Lions,新疆,Xinjiang Flying Tigers,79,76,Played
+11,2026-01-06,19:35,吉林,Jilin Northeast Tigers,江苏,Jiangsu Dragons,83,72,Played
+11,2026-01-06,19:35,同曦,Nanjing Monkey Kings,辽宁,Liaoning Flying Leopards,66,79,Played
+11,2026-01-06,19:35,山西,Shanxi Loongs,四川,Sichuan Blue Whales,97,79,Played
+11,2026-01-06,19:35,天津,Tianjin Pioneers,北控,Beijing Royal Fighters,110,103,Played
+12,2026-01-07,19:35,广东,Guangdong Southern Tigers,深圳,Shenzhen Leopards,110,105,Played
+12,2026-01-07,19:35,青岛,Qingdao Eagles,上海,Shanghai Sharks,73,90,Played
+12,2026-01-08,19:35,广州,Guangzhou Loong Lions,浙江,Zhejiang Golden Bulls,60,95,Played
+12,2026-01-08,19:35,吉林,Jilin Northeast Tigers,福建,Fujian Sturgeons,77,74,Played
+12,2026-01-08,19:35,山西,Shanxi Loongs,天津,Tianjin Pioneers,103,99,Played
+12,2026-01-08,19:35,四川,Sichuan Blue Whales,北控,Beijing Royal Fighters,79,81,Played
+12,2026-01-09,19:35,宁波,Ningbo Rockets,同曦,Nanjing Monkey Kings,94,71,Played
+12,2026-01-09,19:35,江苏,Jiangsu Dragons,辽宁,Liaoning Flying Leopards,71,88,Played
+12,2026-01-09,19:35,北京,Beijing Ducks,山东,Shandong Hi-Speed Kirin,85,87,Played
+12,2026-01-09,19:35,广厦,Zhejiang Guangsha Lions,新疆,Xinjiang Flying Tigers,87,72,Played
+13,2026-01-10,19:35,福建,Fujian Sturgeons,天津,Tianjin Pioneers,115,94,Played
+13,2026-01-10,19:35,广州,Guangzhou Loong Lions,四川,Sichuan Blue Whales,106,76,Played
+13,2026-01-10,19:35,浙江,Zhejiang Golden Bulls,北控,Beijing Royal Fighters,89,69,Played
+13,2026-01-11,19:35,吉林,Jilin Northeast Tigers,青岛,Qingdao Eagles,74,82,Played
+13,2026-01-11,19:35,辽宁,Liaoning Flying Leopards,广东,Guangdong Southern Tigers,78,108,Played
+13,2026-01-11,19:35,山东,Shandong Hi-Speed Kirin,同曦,Nanjing Monkey Kings,89,76,Played
+13,2026-01-11,19:35,上海,Shanghai Sharks,山西,Shanxi Loongs,96,81,Played
+13,2026-01-11,19:35,深圳,Shenzhen Leopards,北京,Beijing Ducks,118,110,Played
+13,2026-01-11,19:35,宁波,Ningbo Rockets,广厦,Zhejiang Guangsha Lions,78,84,Played
+13,2026-01-11,20:00,新疆,Xinjiang Flying Tigers,江苏,Jiangsu Dragons,99,60,Played
+14,2026-01-12,19:35,北控,Beijing Royal Fighters,福建,Fujian Sturgeons,94,91,Played
+14,2026-01-12,19:35,广州,Guangzhou Loong Lions,天津,Tianjin Pioneers,93,98,Played
+14,2026-01-12,19:35,浙江,Zhejiang Golden Bulls,四川,Sichuan Blue Whales,103,68,Played
+14,2026-01-13,19:35,宁波,Ningbo Rockets,山西,Shanxi Loongs,97,84,Played
+14,2026-01-13,19:35,辽宁,Liaoning Flying Leopards,青岛,Qingdao Eagles,70,86,Played
+14,2026-01-13,19:35,同曦,Nanjing Monkey Kings,广东,Guangdong Southern Tigers,71,87,Played
+14,2026-01-13,19:35,山东,Shandong Hi-Speed Kirin,吉林,Jilin Northeast Tigers,108,85,Played
+14,2026-01-13,19:35,深圳,Shenzhen Leopards,上海,Shanghai Sharks,107,97,Played
+14,2026-01-13,19:35,北京,Beijing Ducks,江苏,Jiangsu Dragons,89,85,Played
+14,2026-01-13,20:00,新疆,Xinjiang Flying Tigers,广厦,Zhejiang Guangsha Lions,73,80,Played
+15,2026-01-14,19:35,天津,Tianjin Pioneers,福建,Fujian Sturgeons,106,76,Played
+15,2026-01-14,19:35,浙江,Zhejiang Golden Bulls,广州,Guangzhou Loong Lions,89,74,Played
+15,2026-01-15,19:35,北控,Beijing Royal Fighters,江苏,Jiangsu Dragons,100,105,Played
+15,2026-01-15,19:35,广东,Guangdong Southern Tigers,上海,Shanghai Sharks,73,113,Played
+15,2026-01-15,19:35,青岛,Qingdao Eagles,吉林,Jilin Northeast Tigers,80,67,Played
+15,2026-01-15,19:35,山东,Shandong Hi-Speed Kirin,宁波,Ningbo Rockets,109,82,Played
+15,2026-01-15,19:35,广厦,Zhejiang Guangsha Lions,四川,Sichuan Blue Whales,93,69,Played
+15,2026-01-16,19:35,辽宁,Liaoning Flying Leopards,新疆,Xinjiang Flying Tigers,82,75,Played
+15,2026-01-16,19:35,同曦,Nanjing Monkey Kings,深圳,Shenzhen Leopards,115,86,Played
+15,2026-01-16,19:35,北京,Beijing Ducks,山西,Shanxi Loongs,84,90,Played
+16,2026-01-17,19:35,广东,Guangdong Southern Tigers,北控,Beijing Royal Fighters,98,99,Played
+16,2026-01-17,19:35,江苏,Jiangsu Dragons,山东,Shandong Hi-Speed Kirin,106,101,Played
+16,2026-01-17,19:35,四川,Sichuan Blue Whales,吉林,Jilin Northeast Tigers,79,103,Played
+16,2026-01-17,19:35,广厦,Zhejiang Guangsha Lions,广州,Guangzhou Loong Lions,109,82,Played
+16,2026-01-17,19:35,青岛,Qingdao Eagles,浙江,Zhejiang Golden Bulls,87,76,Played
+16,2026-01-18,19:35,辽宁,Liaoning Flying Leopards,深圳,Shenzhen Leopards,83,87,Played
+16,2026-01-18,19:35,上海,Shanghai Sharks,新疆,Xinjiang Flying Tigers,80,70,Played
+16,2026-01-18,19:35,山西,Shanxi Loongs,福建,Fujian Sturgeons,104,83,Played
+16,2026-01-18,19:35,北京,Beijing Ducks,宁波,Ningbo Rockets,94,86,Played
+16,2026-01-18,19:35,天津,Tianjin Pioneers,同曦,Nanjing Monkey Kings,102,94,Played
+17,2026-01-19,19:35,广州,Guangzhou Loong Lions,北控,Beijing Royal Fighters,104,75,Played
+17,2026-01-19,19:35,吉林,Jilin Northeast Tigers,山东,Shandong Hi-Speed Kirin,68,77,Played
+17,2026-01-19,19:35,四川,Sichuan Blue Whales,广东,Guangdong Southern Tigers,76,104,Played
+17,2026-01-19,19:35,广厦,Zhejiang Guangsha Lions,青岛,Qingdao Eagles,90,75,Played
+17,2026-01-20,19:35,福建,Fujian Sturgeons,同曦,Nanjing Monkey Kings,105,91,Played
+17,2026-01-20,19:35,江苏,Jiangsu Dragons,新疆,Xinjiang Flying Tigers,65,89,Played
+17,2026-01-20,19:35,上海,Shanghai Sharks,北京,Beijing Ducks,86,67,Played
+17,2026-01-20,19:35,山西,Shanxi Loongs,辽宁,Liaoning Flying Leopards,90,86,Played
+17,2026-01-20,19:35,天津,Tianjin Pioneers,宁波,Ningbo Rockets,103,93,Played
+17,2026-01-20,19:35,浙江,Zhejiang Golden Bulls,深圳,Shenzhen Leopards,90,92,Played
+18,2026-01-21,19:35,北控,Beijing Royal Fighters,广厦,Zhejiang Guangsha Lions,79,102,Played
+18,2026-01-21,19:35,吉林,Jilin Northeast Tigers,广东,Guangdong Southern Tigers,98,119,Played
+18,2026-01-22,19:35,江苏,Jiangsu Dragons,天津,Tianjin Pioneers,83,77,Played
+18,2026-01-22,19:35,深圳,Shenzhen Leopards,山西,Shanxi Loongs,105,95,Played
+18,2026-01-22,19:35,北京,Beijing Ducks,浙江,Zhejiang Golden Bulls,79,73,Played
+18,2026-01-22,20:00,新疆,Xinjiang Flying Tigers,四川,Sichuan Blue Whales,98,56,Played
+18,2026-01-23,19:35,宁波,Ningbo Rockets,青岛,Qingdao Eagles,82,68,Played
+18,2026-01-23,19:35,福建,Fujian Sturgeons,上海,Shanghai Sharks,80,110,Played
+18,2026-01-23,19:35,广州,Guangzhou Loong Lions,同曦,Nanjing Monkey Kings,112,102,Played
+18,2026-01-23,19:35,辽宁,Liaoning Flying Leopards,山东,Shandong Hi-Speed Kirin,79,84,Played
+19,2026-01-24,19:35,广东,Guangdong Southern Tigers,山西,Shanxi Loongs,107,97,Played
+19,2026-01-24,19:35,北京,Beijing Ducks,北控,Beijing Royal Fighters,82,88,Played
+19,2026-01-24,19:35,天津,Tianjin Pioneers,吉林,Jilin Northeast Tigers,93,96,Played
+19,2026-01-25,19:35,宁波,Ningbo Rockets,江苏,Jiangsu Dragons,84,86,Played
+19,2026-01-25,19:35,福建,Fujian Sturgeons,四川,Sichuan Blue Whales,118,82,Played
+19,2026-01-25,19:35,青岛,Qingdao Eagles,广州,Guangzhou Loong Lions,78,80,Played
+19,2026-01-25,19:35,山东,Shandong Hi-Speed Kirin,广厦,Zhejiang Guangsha Lions,93,87,Played
+19,2026-01-25,19:35,深圳,Shenzhen Leopards,同曦,Nanjing Monkey Kings,111,88,Played
+19,2026-01-25,19:35,浙江,Zhejiang Golden Bulls,上海,Shanghai Sharks,85,82,Played
+19,2026-01-25,20:00,新疆,Xinjiang Flying Tigers,辽宁,Liaoning Flying Leopards,78,59,Played
+20,2026-01-26,19:35,北控,Beijing Royal Fighters,吉林,Jilin Northeast Tigers,87,84,Played
+20,2026-01-26,19:35,广东,Guangdong Southern Tigers,天津,Tianjin Pioneers,98,89,Played
+20,2026-01-26,19:35,山西,Shanxi Loongs,北京,Beijing Ducks,86,87,Played
+20,2026-01-27,19:35,同曦,Nanjing Monkey Kings,新疆,Xinjiang Flying Tigers,98,97,Played
+20,2026-01-27,19:35,青岛,Qingdao Eagles,广厦,Zhejiang Guangsha Lions,84,93,Played
+20,2026-01-27,19:35,山东,Shandong Hi-Speed Kirin,宁波,Ningbo Rockets,99,75,Played
+20,2026-01-27,19:35,上海,Shanghai Sharks,广州,Guangzhou Loong Lions,95,78,Played
+20,2026-01-27,19:35,深圳,Shenzhen Leopards,福建,Fujian Sturgeons,106,77,Played
+20,2026-01-27,19:35,四川,Sichuan Blue Whales,辽宁,Liaoning Flying Leopards,57,109,Played
+20,2026-01-27,19:35,浙江,Zhejiang Golden Bulls,江苏,Jiangsu Dragons,89,69,Played
+21,2026-01-28,19:35,广东,Guangdong Southern Tigers,吉林,Jilin Northeast Tigers,89,81,Played
+21,2026-01-28,19:35,天津,Tianjin Pioneers,北京,Beijing Ducks,93,78,Played
+21,2026-01-29,19:35,宁波,Ningbo Rockets,辽宁,Liaoning Flying Leopards,75,62,Played
+21,2026-01-29,19:35,广州,Guangzhou Loong Lions,福建,Fujian Sturgeons,85,92,Played
+21,2026-01-29,19:35,江苏,Jiangsu Dragons,新疆,Xinjiang Flying Tigers,88,68,Played
+21,2026-01-29,19:35,浙江,Zhejiang Golden Bulls,山西,Shanxi Loongs,87,70,Played
+21,2026-01-29,19:35,广厦,Zhejiang Guangsha Lions,山东,Shandong Hi-Speed Kirin,86,77,Played
+21,2026-01-30,19:35,北控,Beijing Royal Fighters,青岛,Qingdao Eagles,69,64,Played
+21,2026-01-30,19:35,同曦,Nanjing Monkey Kings,四川,Sichuan Blue Whales,104,72,Played
+21,2026-01-30,19:35,上海,Shanghai Sharks,深圳,Shenzhen Leopards,101,92,Played
+22,2026-01-31,19:35,吉林,Jilin Northeast Tigers,山西,Shanxi Loongs,74,105,Played
+22,2026-01-31,19:35,辽宁,Liaoning Flying Leopards,天津,Tianjin Pioneers,105,91,Played
+22,2026-01-31,19:35,山东,Shandong Hi-Speed Kirin,广州,Guangzhou Loong Lions,83,80,Played
+22,2026-01-31,19:35,广厦,Zhejiang Guangsha Lions,浙江,Zhejiang Golden Bulls,68,58,Played
+22,2026-02-01,19:35,宁波,Ningbo Rockets,广东,Guangdong Southern Tigers,94,81,Played
+22,2026-02-01,19:35,福建,Fujian Sturgeons,北控,Beijing Royal Fighters,92,97,Played
+22,2026-02-01,19:35,江苏,Jiangsu Dragons,深圳,Shenzhen Leopards,71,90,Played
+22,2026-02-01,19:35,上海,Shanghai Sharks,同曦,Nanjing Monkey Kings,114,80,Played
+22,2026-02-01,19:35,四川,Sichuan Blue Whales,新疆,Xinjiang Flying Tigers,47,105,Played
+22,2026-02-01,19:35,北京,Beijing Ducks,青岛,Qingdao Eagles,87,89,Played
+23,2026-02-02,19:35,吉林,Jilin Northeast Tigers,广厦,Zhejiang Guangsha Lions,78,72,Played
+23,2026-02-02,19:35,天津,Tianjin Pioneers,山东,Shandong Hi-Speed Kirin,101,96,Played
+23,2026-02-03,19:35,宁波,Ningbo Rockets,北控,Beijing Royal Fighters,79,75,Played
+23,2026-02-03,19:35,北京,Beijing Ducks,福建,Fujian Sturgeons,85,77,Played
+23,2026-02-03,19:35,辽宁,Liaoning Flying Leopards,江苏,Jiangsu Dragons,95,82,Played
+23,2026-02-03,19:35,同曦,Nanjing Monkey Kings,深圳,Shenzhen Leopards,126,123,Played
+23,2026-02-03,19:35,青岛,Qingdao Eagles,广州,Guangzhou Loong Lions,88,81,Played
+23,2026-02-03,19:35,四川,Sichuan Blue Whales,山西,Shanxi Loongs,61,84,Played
+23,2026-02-03,19:35,广东,Guangdong Southern Tigers,上海,Shanghai Sharks,84,94,Played
+23,2026-02-03,20:00,新疆,Xinjiang Flying Tigers,浙江,Zhejiang Golden Bulls,59,61,Played
+2,2026-03-05,19:35,广州,Guangzhou Loong Lions,山东,Shandong Hi-Speed Kirin,93,85,Played
+24,2026-03-11,19:35,山东,Shandong Hi-Speed Kirin,江苏,Jiangsu Dragons,113,104,Played
+24,2026-03-11,19:35,上海,Shanghai Sharks,北控,Beijing Royal Fighters,106,92,Played
+24,2026-03-11,19:35,山西,Shanxi Loongs,吉林,Jilin Northeast Tigers,85,74,Played
+24,2026-03-11,19:35,深圳,Shenzhen Leopards,辽宁,Liaoning Flying Leopards,88,96,Played
+24,2026-03-11,19:35,北京,Beijing Ducks,四川,Sichuan Blue Whales,88,55,Played
+24,2026-03-11,19:35,天津,Tianjin Pioneers,浙江,Zhejiang Golden Bulls,102,95,Played
+24,2026-03-11,19:35,广厦,Zhejiang Guangsha Lions,同曦,Nanjing Monkey Kings,113,80,Played
+24,2026-03-11,20:00,新疆,Xinjiang Flying Tigers,广东,Guangdong Southern Tigers,82,80,Played
+24,2026-03-12,19:35,广州,Guangzhou Loong Lions,宁波,Ningbo Rockets,83,84,Played
+24,2026-03-12,19:35,青岛,Qingdao Eagles,福建,Fujian Sturgeons,114,84,Played
+25,2026-03-13,19:35,北控,Beijing Royal Fighters,天津,Tianjin Pioneers,,VS,Scheduled
+25,2026-03-13,19:35,辽宁,Liaoning Flying Leopards,山西,Shanxi Loongs,,VS,Scheduled
+25,2026-03-13,20:00,深圳,Shenzhen Leopards,广东,Guangdong Southern Tigers,,VS,Scheduled
+25,2026-03-13,20:00,新疆,Xinjiang Flying Tigers,吉林,Jilin Northeast Tigers,,VS,Scheduled
+25,2026-03-14,19:35,福建,Fujian Sturgeons,宁波,Ningbo Rockets,,VS,Scheduled
+25,2026-03-14,19:35,广州,Guangzhou Loong Lions,北京,Beijing Ducks,,VS,Scheduled
+25,2026-03-14,19:35,江苏,Jiangsu Dragons,同曦,Nanjing Monkey Kings,,VS,Scheduled
+25,2026-03-14,19:35,山东,Shandong Hi-Speed Kirin,青岛,Qingdao Eagles,,VS,Scheduled
+25,2026-03-14,19:35,四川,Sichuan Blue Whales,上海,Shanghai Sharks,,VS,Scheduled
+25,2026-03-14,19:35,浙江,Zhejiang Golden Bulls,广厦,Zhejiang Guangsha Lions,,VS,Scheduled
+26,2026-03-15,19:35,广东,Guangdong Southern Tigers,辽宁,Liaoning Flying Leopards,,VS,Scheduled
+26,2026-03-15,19:35,吉林,Jilin Northeast Tigers,山西,Shanxi Loongs,,VS,Scheduled
+26,2026-03-15,20:00,新疆,Xinjiang Flying Tigers,北控,Beijing Royal Fighters,,VS,Scheduled
+26,2026-03-16,19:35,广厦,Zhejiang Guangsha Lions,宁波,Ningbo Rockets,,VS,Scheduled
+26,2026-03-16,19:35,同曦,Nanjing Monkey Kings,福建,Fujian Sturgeons,,VS,Scheduled
+26,2026-03-16,19:35,山东,Shandong Hi-Speed Kirin,浙江,Zhejiang Golden Bulls,,VS,Scheduled
+26,2026-03-16,19:35,上海,Shanghai Sharks,青岛,Qingdao Eagles,,VS,Scheduled
+26,2026-03-16,19:35,深圳,Shenzhen Leopards,广州,Guangzhou Loong Lions,,VS,Scheduled
+26,2026-03-16,19:35,北京,Beijing Ducks,天津,Tianjin Pioneers,,VS,Scheduled
+26,2026-03-16,19:35,四川,Sichuan Blue Whales,江苏,Jiangsu Dragons,,VS,Scheduled
+27,2026-03-17,19:35,广东,Guangdong Southern Tigers,新疆,Xinjiang Flying Tigers,,VS,Scheduled
+27,2026-03-17,19:35,山西,Shanxi Loongs,北控,Beijing Royal Fighters,,VS,Scheduled
+27,2026-03-18,19:35,上海,Shanghai Sharks,山东,Shandong Hi-Speed Kirin,,VS,Scheduled
+27,2026-03-18,19:35,同曦,Nanjing Monkey Kings,浙江,Zhejiang Golden Bulls,,VS,Scheduled
+27,2026-03-18,19:35,天津,Tianjin Pioneers,深圳,Shenzhen Leopards,,VS,Scheduled
+27,2026-03-18,19:35,广厦,Zhejiang Guangsha Lions,吉林,Jilin Northeast Tigers,,VS,Scheduled
+27,2026-03-18,19:35,辽宁,Liaoning Flying Leopards,广州,Guangzhou Loong Lions,,VS,Scheduled
+27,2026-03-18,19:35,青岛,Qingdao Eagles,江苏,Jiangsu Dragons,,VS,Scheduled
+27,2026-03-19,19:35,福建,Fujian Sturgeons,北京,Beijing Ducks,,VS,Scheduled
+27,2026-03-19,19:35,四川,Sichuan Blue Whales,宁波,Ningbo Rockets,,VS,Scheduled
+28,2026-03-20,19:35,江苏,Jiangsu Dragons,广东,Guangdong Southern Tigers,,VS,Scheduled
+28,2026-03-20,19:35,山东,Shandong Hi-Speed Kirin,天津,Tianjin Pioneers,,VS,Scheduled
+28,2026-03-20,19:35,广厦,Zhejiang Guangsha Lions,北控,Beijing Royal Fighters,,VS,Scheduled
+28,2026-03-20,20:00,深圳,Shenzhen Leopards,新疆,Xinjiang Flying Tigers,,VS,Scheduled
+28,2026-03-21,19:35,宁波,Ningbo Rockets,广州,Guangzhou Loong Lions,,VS,Scheduled
+28,2026-03-21,19:35,福建,Fujian Sturgeons,山西,Shanxi Loongs,,VS,Scheduled
+28,2026-03-21,19:35,辽宁,Liaoning Flying Leopards,北京,Beijing Ducks,,VS,Scheduled
+28,2026-03-21,19:35,同曦,Nanjing Monkey Kings,青岛,Qingdao Eagles,,VS,Scheduled
+28,2026-03-21,19:35,上海,Shanghai Sharks,四川,Sichuan Blue Whales,,VS,Scheduled
+28,2026-03-21,19:35,浙江,Zhejiang Golden Bulls,吉林,Jilin Northeast Tigers,,VS,Scheduled
+29,2026-03-22,19:35,江苏,Jiangsu Dragons,广厦,Zhejiang Guangsha Lions,,VS,Scheduled
+29,2026-03-22,19:35,深圳,Shenzhen Leopards,天津,Tianjin Pioneers,,VS,Scheduled
+29,2026-03-23,19:35,宁波,Ningbo Rockets,新疆,Xinjiang Flying Tigers,,VS,Scheduled
+29,2026-03-23,19:35,北控,Beijing Royal Fighters,浙江,Zhejiang Golden Bulls,,VS,Scheduled
+29,2026-03-23,19:35,福建,Fujian Sturgeons,青岛,Qingdao Eagles,,VS,Scheduled
+29,2026-03-23,19:35,广州,Guangzhou Loong Lions,山西,Shanxi Loongs,,VS,Scheduled
+29,2026-03-23,19:35,吉林,Jilin Northeast Tigers,北京,Beijing Ducks,,VS,Scheduled
+29,2026-03-23,19:35,辽宁,Liaoning Flying Leopards,同曦,Nanjing Monkey Kings,,VS,Scheduled
+29,2026-03-23,19:35,上海,Shanghai Sharks,广东,Guangdong Southern Tigers,,VS,Scheduled
+29,2026-03-23,19:35,四川,Sichuan Blue Whales,山东,Shandong Hi-Speed Kirin,,VS,Scheduled
+30,2026-03-24,19:35,深圳,Shenzhen Leopards,江苏,Jiangsu Dragons,,VS,Scheduled
+30,2026-03-24,19:35,天津,Tianjin Pioneers,广厦,Zhejiang Guangsha Lions,,VS,Scheduled
+30,2026-03-25,19:35,宁波,Ningbo Rockets,福建,Fujian Sturgeons,,VS,Scheduled
+30,2026-03-25,19:35,广东,Guangdong Southern Tigers,四川,Sichuan Blue Whales,,VS,Scheduled
+30,2026-03-25,19:35,吉林,Jilin Northeast Tigers,辽宁,Liaoning Flying Leopards,,VS,Scheduled
+30,2026-03-25,19:35,山西,Shanxi Loongs,上海,Shanghai Sharks,,VS,Scheduled
+30,2026-03-25,19:35,北京,Beijing Ducks,浙江,Zhejiang Golden Bulls,,VS,Scheduled
+30,2026-03-25,20:00,新疆,Xinjiang Flying Tigers,山东,Shandong Hi-Speed Kirin,,VS,Scheduled
+30,2026-03-26,19:35,北控,Beijing Royal Fighters,同曦,Nanjing Monkey Kings,,VS,Scheduled
+30,2026-03-26,19:35,广州,Guangzhou Loong Lions,青岛,Qingdao Eagles,,VS,Scheduled
+31,2026-03-27,19:35,福建,Fujian Sturgeons,深圳,Shenzhen Leopards,,VS,Scheduled
+31,2026-03-27,19:35,广东,Guangdong Southern Tigers,北京,Beijing Ducks,,VS,Scheduled
+31,2026-03-27,19:35,江苏,Jiangsu Dragons,吉林,Jilin Northeast Tigers,,VS,Scheduled
+31,2026-03-27,19:35,山西,Shanxi Loongs,山东,Shandong Hi-Speed Kirin,,VS,Scheduled
+31,2026-03-27,19:35,四川,Sichuan Blue Whales,广厦,Zhejiang Guangsha Lions,,VS,Scheduled
+31,2026-03-27,19:35,天津,Tianjin Pioneers,上海,Shanghai Sharks,,VS,Scheduled
+31,2026-03-28,19:35,北控,Beijing Royal Fighters,宁波,Ningbo Rockets,,VS,Scheduled
+31,2026-03-28,19:35,广州,Guangzhou Loong Lions,辽宁,Liaoning Flying Leopards,,VS,Scheduled
+31,2026-03-28,19:35,青岛,Qingdao Eagles,浙江,Zhejiang Golden Bulls,,VS,Scheduled
+31,2026-03-28,20:00,新疆,Xinjiang Flying Tigers,同曦,Nanjing Monkey Kings,,VS,Scheduled
+32,2026-03-29,19:35,吉林,Jilin Northeast Tigers,深圳,Shenzhen Leopards,,VS,Scheduled
+32,2026-03-29,19:35,山西,Shanxi Loongs,上海,Shanghai Sharks,,VS,Scheduled
+32,2026-03-29,19:35,四川,Sichuan Blue Whales,广东,Guangdong Southern Tigers,,VS,Scheduled
+32,2026-03-29,19:35,广厦,Zhejiang Guangsha Lions,江苏,Jiangsu Dragons,,VS,Scheduled
+32,2026-03-30,19:35,福建,Fujian Sturgeons,辽宁,Liaoning Flying Leopards,,VS,Scheduled
+32,2026-03-30,19:35,同曦,Nanjing Monkey Kings,北京,Beijing Ducks,,VS,Scheduled
+32,2026-03-30,19:35,青岛,Qingdao Eagles,北控,Beijing Royal Fighters,,VS,Scheduled
+32,2026-03-30,19:35,山东,Shandong Hi-Speed Kirin,天津,Tianjin Pioneers,,VS,Scheduled
+32,2026-03-30,19:35,浙江,Zhejiang Golden Bulls,广州,Guangzhou Loong Lions,,VS,Scheduled
+32,2026-03-30,20:00,新疆,Xinjiang Flying Tigers,宁波,Ningbo Rockets,,VS,Scheduled
+33,2026-03-31,19:35,广东,Guangdong Southern Tigers,江苏,Jiangsu Dragons,,VS,Scheduled
+33,2026-03-31,19:35,吉林,Jilin Northeast Tigers,上海,Shanghai Sharks,,VS,Scheduled
+33,2026-04-01,19:35,北控,Beijing Royal Fighters,广州,Guangzhou Loong Lions,,VS,Scheduled
+33,2026-04-01,19:35,辽宁,Liaoning Flying Leopards,新疆,Xinjiang Flying Tigers,,VS,Scheduled
+33,2026-04-01,19:35,青岛,Qingdao Eagles,天津,Tianjin Pioneers,,VS,Scheduled
+33,2026-04-01,19:35,山东,Shandong Hi-Speed Kirin,福建,Fujian Sturgeons,,VS,Scheduled
+33,2026-04-01,19:35,四川,Sichuan Blue Whales,山西,Shanxi Loongs,,VS,Scheduled
+33,2026-04-01,19:35,浙江,Zhejiang Golden Bulls,北京,Beijing Ducks,,VS,Scheduled
+33,2026-04-02,19:35,同曦,Nanjing Monkey Kings,宁波,Ningbo Rockets,,VS,Scheduled
+33,2026-04-02,19:35,深圳,Shenzhen Leopards,广厦,Zhejiang Guangsha Lions,,VS,Scheduled
+34,2026-04-03,19:35,福建,Fujian Sturgeons,青岛,Qingdao Eagles,,VS,Scheduled
+34,2026-04-03,19:35,吉林,Jilin Northeast Tigers,四川,Sichuan Blue Whales,,VS,Scheduled
+34,2026-04-03,19:35,上海,Shanghai Sharks,天津,Tianjin Pioneers,,VS,Scheduled
+34,2026-04-03,19:35,北京,Beijing Ducks,广州,Guangzhou Loong Lions,,VS,Scheduled
+34,2026-04-03,19:35,浙江,Zhejiang Golden Bulls,辽宁,Liaoning Flying Leopards,,VS,Scheduled
+34,2026-04-04,19:35,宁波,Ningbo Rockets,山东,Shandong Hi-Speed Kirin,,VS,Scheduled
+34,2026-04-04,19:35,北控,Beijing Royal Fighters,深圳,Shenzhen Leopards,,VS,Scheduled
+34,2026-04-04,19:35,广东,Guangdong Southern Tigers,广厦,Zhejiang Guangsha Lions,,VS,Scheduled
+34,2026-04-04,19:35,同曦,Nanjing Monkey Kings,江苏,Jiangsu Dragons,,VS,Scheduled
+34,2026-04-04,20:00,新疆,Xinjiang Flying Tigers,山西,Shanxi Loongs,,VS,Scheduled
+35,2026-04-05,19:35,浙江,Zhejiang Golden Bulls,福建,Fujian Sturgeons,,VS,Scheduled
+35,2026-04-05,19:35,辽宁,Liaoning Flying Leopards,四川,Sichuan Blue Whales,,VS,Scheduled
+35,2026-04-05,19:35,上海,Shanghai Sharks,吉林,Jilin Northeast Tigers,,VS,Scheduled
+35,2026-04-06,19:35,广州,Guangzhou Loong Lions,广厦,Zhejiang Guangsha Lions,,VS,Scheduled
+35,2026-04-06,19:35,江苏,Jiangsu Dragons,北控,Beijing Royal Fighters,,VS,Scheduled
+35,2026-04-06,19:35,山西,Shanxi Loongs,青岛,Qingdao Eagles,,VS,Scheduled
+35,2026-04-06,19:35,山东,Shandong Hi-Speed Kirin,广东,Guangdong Southern Tigers,,VS,Scheduled
+35,2026-04-06,19:35,天津,Tianjin Pioneers,宁波,Ningbo Rockets,,VS,Scheduled
+35,2026-04-06,19:35,北京,Beijing Ducks,同曦,Nanjing Monkey Kings,,VS,Scheduled
+35,2026-04-06,20:00,新疆,Xinjiang Flying Tigers,深圳,Shenzhen Leopards,,VS,Scheduled
+36,2026-04-07,19:35,吉林,Jilin Northeast Tigers,四川,Sichuan Blue Whales,,VS,Scheduled
+36,2026-04-07,19:35,辽宁,Liaoning Flying Leopards,福建,Fujian Sturgeons,,VS,Scheduled
+36,2026-04-08,19:35,宁波,Ningbo Rockets,上海,Shanghai Sharks,,VS,Scheduled
+36,2026-04-08,19:35,广州,Guangzhou Loong Lions,北京,Beijing Ducks,,VS,Scheduled
+36,2026-04-08,19:35,同曦,Nanjing Monkey Kings,北控,Beijing Royal Fighters,,VS,Scheduled
+36,2026-04-08,19:35,青岛,Qingdao Eagles,广东,Guangdong Southern Tigers,,VS,Scheduled
+36,2026-04-08,19:35,广厦,Zhejiang Guangsha Lions,山东,Shandong Hi-Speed Kirin,,VS,Scheduled
+36,2026-04-08,20:00,新疆,Xinjiang Flying Tigers,天津,Tianjin Pioneers,,VS,Scheduled
+36,2026-04-09,19:35,江苏,Jiangsu Dragons,浙江,Zhejiang Golden Bulls,,VS,Scheduled
+36,2026-04-09,19:35,山西,Shanxi Loongs,深圳,Shenzhen Leopards,,VS,Scheduled
+37,2026-04-10,19:35,宁波,Ningbo Rockets,广厦,Zhejiang Guangsha Lions,,VS,Scheduled
+37,2026-04-10,19:35,北控,Beijing Royal Fighters,北京,Beijing Ducks,,VS,Scheduled
+37,2026-04-10,19:35,广东,Guangdong Southern Tigers,吉林,Jilin Northeast Tigers,,VS,Scheduled
+37,2026-04-10,19:35,青岛,Qingdao Eagles,辽宁,Liaoning Flying Leopards,,VS,Scheduled
+37,2026-04-10,19:35,上海,Shanghai Sharks,福建,Fujian Sturgeons,,VS,Scheduled
+37,2026-04-11,19:35,同曦,Nanjing Monkey Kings,广州,Guangzhou Loong Lions,,VS,Scheduled
+37,2026-04-11,19:35,山西,Shanxi Loongs,新疆,Xinjiang Flying Tigers,,VS,Scheduled
+37,2026-04-11,19:35,深圳,Shenzhen Leopards,江苏,Jiangsu Dragons,,VS,Scheduled
+37,2026-04-11,19:35,四川,Sichuan Blue Whales,天津,Tianjin Pioneers,,VS,Scheduled
+37,2026-04-11,19:35,浙江,Zhejiang Golden Bulls,山东,Shandong Hi-Speed Kirin,,VS,Scheduled
+38,2026-04-12,19:35,青岛,Qingdao Eagles,宁波,Ningbo Rockets,,VS,Scheduled
+38,2026-04-12,19:35,北京,Beijing Ducks,上海,Shanghai Sharks,,VS,Scheduled
+38,2026-04-12,19:35,广厦,Zhejiang Guangsha Lions,广东,Guangdong Southern Tigers,,VS,Scheduled
+38,2026-04-13,19:35,北控,Beijing Royal Fighters,山西,Shanxi Loongs,,VS,Scheduled
+38,2026-04-13,19:35,广州,Guangzhou Loong Lions,江苏,Jiangsu Dragons,,VS,Scheduled
+38,2026-04-13,19:35,吉林,Jilin Northeast Tigers,同曦,Nanjing Monkey Kings,,VS,Scheduled
+38,2026-04-13,19:35,山东,Shandong Hi-Speed Kirin,辽宁,Liaoning Flying Leopards,,VS,Scheduled
+38,2026-04-13,19:35,四川,Sichuan Blue Whales,深圳,Shenzhen Leopards,,VS,Scheduled
+38,2026-04-13,19:35,天津,Tianjin Pioneers,新疆,Xinjiang Flying Tigers,,VS,Scheduled
+38,2026-04-13,19:35,福建,Fujian Sturgeons,浙江,Zhejiang Golden Bulls,,VS,Scheduled
+39,2026-04-14,19:35,广东,Guangdong Southern Tigers,宁波,Ningbo Rockets,,VS,Scheduled
+39,2026-04-14,19:35,北京,Beijing Ducks,青岛,Qingdao Eagles,,VS,Scheduled
+39,2026-04-15,19:35,北控,Beijing Royal Fighters,山东,Shandong Hi-Speed Kirin,,VS,Scheduled
+39,2026-04-15,19:35,广州,Guangzhou Loong Lions,上海,Shanghai Sharks,,VS,Scheduled
+39,2026-04-15,19:35,辽宁,Liaoning Flying Leopards,同曦,Nanjing Monkey Kings,,VS,Scheduled
+39,2026-04-15,19:35,山西,Shanxi Loongs,广厦,Zhejiang Guangsha Lions,,VS,Scheduled
+39,2026-04-15,19:35,天津,Tianjin Pioneers,四川,Sichuan Blue Whales,,VS,Scheduled
+39,2026-04-15,20:00,新疆,Xinjiang Flying Tigers,深圳,Shenzhen Leopards,,VS,Scheduled
+39,2026-04-16,19:35,江苏,Jiangsu Dragons,福建,Fujian Sturgeons,,VS,Scheduled
+39,2026-04-16,19:35,吉林,Jilin Northeast Tigers,浙江,Zhejiang Golden Bulls,,VS,Scheduled
+40,2026-04-17,19:35,北控,Beijing Royal Fighters,四川,Sichuan Blue Whales,,VS,Scheduled
+40,2026-04-17,19:35,同曦,Nanjing Monkey Kings,广厦,Zhejiang Guangsha Lions,,VS,Scheduled
+40,2026-04-17,19:35,深圳,Shenzhen Leopards,宁波,Ningbo Rockets,,VS,Scheduled
+40,2026-04-17,19:35,山东,Shandong Hi-Speed Kirin,北京,Beijing Ducks,,VS,Scheduled
+40,2026-04-17,19:35,天津,Tianjin Pioneers,青岛,Qingdao Eagles,,VS,Scheduled
+40,2026-04-17,20:00,新疆,Xinjiang Flying Tigers,上海,Shanghai Sharks,,VS,Scheduled
+40,2026-04-18,19:35,广东,Guangdong Southern Tigers,福建,Fujian Sturgeons,,VS,Scheduled
+40,2026-04-18,19:35,江苏,Jiangsu Dragons,山西,Shanxi Loongs,,VS,Scheduled
+40,2026-04-18,19:35,吉林,Jilin Northeast Tigers,广州,Guangzhou Loong Lions,,VS,Scheduled
+40,2026-04-18,19:35,辽宁,Liaoning Flying Leopards,浙江,Zhejiang Golden Bulls,,VS,Scheduled
+41,2026-04-19,19:35,广厦,Zhejiang Guangsha Lions,北控,Beijing Royal Fighters,,VS,Scheduled
+41,2026-04-19,19:35,青岛,Qingdao Eagles,北京,Beijing Ducks,,VS,Scheduled
+41,2026-04-19,19:35,深圳,Shenzhen Leopards,山东,Shandong Hi-Speed Kirin,,VS,Scheduled
+41,2026-04-19,20:00,新疆,Xinjiang Flying Tigers,同曦,Nanjing Monkey Kings,,VS,Scheduled
+41,2026-04-20,19:35,宁波,Ningbo Rockets,吉林,Jilin Northeast Tigers,,VS,Scheduled
+41,2026-04-20,19:35,广州,Guangzhou Loong Lions,福建,Fujian Sturgeons,,VS,Scheduled
+41,2026-04-20,19:35,江苏,Jiangsu Dragons,四川,Sichuan Blue Whales,,VS,Scheduled
+41,2026-04-20,19:35,上海,Shanghai Sharks,辽宁,Liaoning Flying Leopards,,VS,Scheduled
+41,2026-04-20,19:35,山西,Shanxi Loongs,广东,Guangdong Southern Tigers,,VS,Scheduled
+41,2026-04-20,19:35,浙江,Zhejiang Golden Bulls,天津,Tianjin Pioneers,,VS,Scheduled
+42,2026-04-24,19:35,宁波,Ningbo Rockets,北控,Beijing Royal Fighters,,VS,Scheduled
+42,2026-04-24,19:35,福建,Fujian Sturgeons,广东,Guangdong Southern Tigers,,VS,Scheduled
+42,2026-04-24,19:35,广州,Guangzhou Loong Lions,深圳,Shenzhen Leopards,,VS,Scheduled
+42,2026-04-24,19:35,江苏,Jiangsu Dragons,辽宁,Liaoning Flying Leopards,,VS,Scheduled
+42,2026-04-24,19:35,青岛,Qingdao Eagles,新疆,Xinjiang Flying Tigers,,VS,Scheduled
+42,2026-04-24,19:35,山东,Shandong Hi-Speed Kirin,上海,Shanghai Sharks,,VS,Scheduled
+42,2026-04-24,19:35,山西,Shanxi Loongs,同曦,Nanjing Monkey Kings,,VS,Scheduled
+42,2026-04-24,19:35,北京,Beijing Ducks,吉林,Jilin Northeast Tigers,,VS,Scheduled
+42,2026-04-24,19:35,四川,Sichuan Blue Whales,浙江,Zhejiang Golden Bulls,,VS,Scheduled
+42,2026-04-24,19:35,广厦,Zhejiang Guangsha Lions,天津,Tianjin Pioneers,,VS,Scheduled
