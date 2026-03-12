@@ -10,7 +10,7 @@
 2. 使用 Haversine 公式计算每支球队每轮比赛的旅行公里数
 3. 在保留所有对阵的前提下优化赛程，减少总旅行公里数
 4. 计算无约束条件下的理论最低旅行公里数作为参照
-5. 通过 Streamlit 交互式仪表盘进行可视化展示
+5. 通过 Streamlit 交互式界面进行可视化展示
 
 ## 数据文件
 
@@ -73,7 +73,7 @@ python analyze_lower_bound.py
 
 ### `travel_app.py`
 
-Streamlit 交互式仪表盘，包含：
+Streamlit 交互式界面，包含：
 
 - **三个标签页：** 原始赛程、优化赛程、对比视图
 - **折线图：** 展示每轮旅行公里数，悬停提示包含球队、轮次、公里数、出发/到达城市
@@ -101,7 +101,7 @@ python gen_travel_mileage.py
 python optimize_schedule.py
 python analyze_lower_bound.py
 
-# 启动仪表盘
+# 启动streamlit界面
 streamlit run travel_app.py
 ```
 
